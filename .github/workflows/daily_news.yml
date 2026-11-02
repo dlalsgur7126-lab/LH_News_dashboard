@@ -1,0 +1,41 @@
+name: Daily LH News Update
+
+on:
+  schedule:
+    # 한국 시간 매일 아침 08시 30분에 자동 실행 (세계표준시 UTC 기준으로는 전날 23:30)
+    - cron: '30 23 * * *'
+  workflow_dispatch: # 내가 원할 때 언제든 수동으로 '실행 버튼'을 누를 수 있게 해주는 기능!
+
+permissions:
+  contents: write # 파이썬이 만든 뉴스 결과 파일을 저장소에 저장할 수 있도록 권한 부여
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 1. 내 저장소 파일들 불러오기
+      uses: actions/checkout@v3
+
+    - name: 2. 파이썬 설치하기
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 3. 크롤링에 필요한 도구들 설치하기
+      run: |
+        pip install requests beautifulsoup4 schedule openai
+
+    - name: 4. 파이썬 뉴스 크롤러 실행하기!
+      env:
+        GITHUB_ACTIONS: 'true'
+      run: |
+        python lh_ai.py
+
+    - name: 5. 새로 만들어진 뉴스 파일(JSON)을 웹사이트에 반영(저장)하기
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add lh_daily_report.json
+        git commit -m "Auto update daily LH news" || echo "변경사항 없음"
+        git push
