@@ -24,6 +24,7 @@ except ImportError:
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "YOUR_OPENAI_API_KEY")
 SEARCH_KEYWORD = "한국토지주택공사"
 TARGET_TIME = "09:00" # 매일 아침 9시 실행
+MAX_COLLECT_COUNT = 35 # 기존 10개에서 최대 35개로 수집량 대폭 확대!
 
 # 웹 브라우저인 척 위장하여 네이버의 봇 차단을 우회하기 위한 헤더
 HEADERS = {
@@ -32,52 +33,69 @@ HEADERS = {
 
 def crawl_naver_news(keyword):
     """
-    네이버 뉴스 검색결과에서 기사를 수집하며, 네이버 개편이나 해외 서버 차단 시
-    구글 뉴스 공식 한국어 RSS 피드를 통해 100% 안정적으로 최신 기사를 가져옵니다.
+    단일 키워드가 아닌 다중 전략 키워드로 네이버 및 구글 뉴스 RSS를 통합 탐색하여
+    기존 10건에서 최대 35건 이상의 방대하고 질 높은 최신 기사 풀(Pool)을 수집합니다.
     """
-    print(f"[{datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}] 🔍 '{keyword}' 뉴스 크롤링을 시작합니다...")
+    print(f"[{datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}] 🔍 '{keyword}' 관련 대량 뉴스 크롤링(목표: {MAX_COLLECT_COUNT}건)을 시작합니다...")
     
-    url = f"https://search.naver.com/search.naver?where=news&query={keyword}"
     news_list = []
-    
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, 'html.parser')
-            # 1차: 기존 네이버 뉴스 클래스 탐색
-            articles = soup.select('.list_news > li')
-            for article in articles:
-                title_tag = article.select_one('.news_tit')
-                snippet_tag = article.select_one('.news_dsc')
-                if title_tag:
-                    news_list.append({
-                        "title": title_tag.text.strip(),
-                        "link": title_tag['href'],
-                        "snippet": snippet_tag.text.strip() if snippet_tag else "최신 언론 보도 기사입니다."
-                    })
-    except Exception as e:
-        print(f"⚠️ 네이버 직접 수집 중 예외 발생: {e}")
+    seen_titles = set() # 중복 기사 제거용
 
-    # 2차: 네이버 UI 개편(SmartBlock) 또는 깃허브 해외 IP 차단으로 0건일 경우 공식 RSS 피드 사용
-    if len(news_list) == 0:
-        print("🔄 클라우드 서버 호환을 위해 공식 뉴스 RSS 피드에서 최신 기사를 수집합니다...")
-        encoded_kw = quote(keyword)
-        rss_url = f"https://news.google.com/rss/search?q={encoded_kw}&hl=ko&gl=KR&ceid=KR:ko"
+    # 1차: 네이버 뉴스 멀티 페이지 탐색 (1페이지~3페이지)
+    for start_idx in [1, 11, 21]:
+        url = f"https://search.naver.com/search.naver?where=news&query={quote(keyword)}&start={start_idx}"
         try:
-            rss_resp = requests.get(rss_url, headers=HEADERS, timeout=10)
-            if rss_resp.status_code == 200:
-                root = ET.fromstring(rss_resp.content)
-                for item in root.findall('.//item')[:10]:
-                    title = item.find('title').text if item.find('title') is not None else ""
-                    link = item.find('link').text if item.find('link') is not None else "#"
-                    pub_date = item.find('pubDate').text if item.find('pubDate') is not None else ""
-                    news_list.append({
-                        "title": title,
-                        "link": link,
-                        "snippet": f"발행일시: {pub_date} | 한국토지주택공사(LH) 관련 실시간 주요 언론 보도입니다."
-                    })
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                articles = soup.select('.list_news > li')
+                for article in articles:
+                    title_tag = article.select_one('.news_tit')
+                    snippet_tag = article.select_one('.news_dsc')
+                    if title_tag:
+                        title = title_tag.text.strip()
+                        if title not in seen_titles:
+                            seen_titles.add(title)
+                            news_list.append({
+                                "title": title,
+                                "link": title_tag['href'],
+                                "snippet": snippet_tag.text.strip() if snippet_tag else "최신 언론 보도 기사입니다."
+                            })
         except Exception as e:
-            print(f"❌ RSS 수집 중 오류 발생: {e}")
+            print(f"⚠️ 네이버 직접 수집 중 예외 발생: {e}")
+
+    # 2차: 클라우드 서버 호환 및 다양한 주제의 기사 확보를 위해 다중 키워드로 공식 RSS 피드 대량 수집
+    if len(news_list) < MAX_COLLECT_COUNT:
+        print("🔄 분석 품질 향상을 위해 다중 전략 키워드로 공식 뉴스 RSS 피드를 대량 수집합니다...")
+        search_queries = ["한국토지주택공사", "LH 주택공급", "LH 신도시 택지"]
+        
+        for q in search_queries:
+            encoded_kw = quote(q)
+            rss_url = f"https://news.google.com/rss/search?q={encoded_kw}&hl=ko&gl=KR&ceid=KR:ko"
+            try:
+                rss_resp = requests.get(rss_url, headers=HEADERS, timeout=10)
+                if rss_resp.status_code == 200:
+                    root = ET.fromstring(rss_resp.content)
+                    for item in root.findall('.//item')[:20]:
+                        title = item.find('title').text.strip() if item.find('title') is not None else ""
+                        link = item.find('link').text if item.find('link') is not None else "#"
+                        pub_date = item.find('pubDate').text if item.find('pubDate') is not None else ""
+                        
+                        # 중복 제목 제거 후 리스트에 추가
+                        if title and title not in seen_titles:
+                            seen_titles.add(title)
+                            news_list.append({
+                                "title": title,
+                                "link": link,
+                                "snippet": f"발행일시: {pub_date} | 키워드 [{q}] 관련 실시간 주요 언론 보도입니다."
+                            })
+                        if len(news_list) >= MAX_COLLECT_COUNT:
+                            break
+            except Exception as e:
+                print(f"❌ RSS 수집 중 오류 발생 ({q}): {e}")
+            
+            if len(news_list) >= MAX_COLLECT_COUNT:
+                break
 
     # 3차 안전장치: 만약 방화벽 등으로 여전히 0건일 경우 기본 최신 브리핑 기사를 자동 생성 (에러 원천 차단)
     if len(news_list) == 0:
@@ -102,25 +120,58 @@ def crawl_naver_news(keyword):
     print(f"✅ 총 {len(news_list)}개의 기사를 성공적으로 수집했습니다.")
     return news_list
 
+def find_best_news_by_theme(news_list, theme_keywords, used_indices, fallback_idx=0):
+    """
+    대량 수집된 뉴스(30~35건) 중에서 각 전략 기법(정책, 경제, 사회, 기술, 갈등 등)의
+    키워드와 가장 잘 부합하는 기사를 똑똑하게 골라내는 함수입니다.
+    """
+    for idx, news in enumerate(news_list):
+        if idx in used_indices:
+            continue
+        title = news['title']
+        if any(kw in title for kw in theme_keywords):
+            used_indices.add(idx)
+            return title
+            
+    # 매칭되는 키워드가 없으면 아직 안 쓴 기사 중 가장 상위 기사를 반환
+    for idx, news in enumerate(news_list):
+        if idx not in used_indices:
+            used_indices.add(idx)
+            return news['title']
+            
+    return news_list[fallback_idx % len(news_list)]['title'] if news_list else "LH 핵심 현안 및 정책 추진"
+
 def generate_dynamic_framework_insights(news_list):
     """
-    수집된 실시간 뉴스 기사들의 제목과 요약을 분석하여 8개 전략 기법(PEST, SWOT, 5 Force, 이해관계자, 7S, VRIO)
-    각각의 세부 항목에 맞는 당일 최신 인사이트를 자동으로 도출합니다.
+    대량 수집된 실시간 뉴스 기사들(30건 이상)을 카테고리별로 정밀 분류하여
+    8개 전략 기법 각각의 세부 항목에 가장 적합한 당일 최신 인사이트를 도출합니다.
     """
-    n1 = news_list[0]['title'] if len(news_list) > 0 else "수도권 신규 택지 및 3기 신도시 공급 박차"
-    n2 = news_list[1]['title'] if len(news_list) > 1 else "민간참여 공공주택 금융지원 및 사업성 개선"
-    n3 = news_list[2]['title'] if len(news_list) > 2 else "지자체 현안 건의 및 광역교통망 협의 지속"
-    n4 = news_list[3]['title'] if len(news_list) > 3 else "조직 혁신 및 재무 건전성 관리 강화"
-    n5 = news_list[4]['title'] if len(news_list) > 4 else "스마트 건설기술 및 주거복지 플랫폼 고도화"
+    used = set()
+    # 테마별 최적 기사 매칭 (수집 모수가 많아져서 각 항목에 딱 맞는 기사가 배정됨!)
+    n_policy = find_best_news_by_theme(news_list, ["정부", "국토부", "대책", "공급", "신도시", "입주", "착공", "청약"], used, 0)
+    n_econ = find_best_news_by_theme(news_list, ["금융", "대출", "HUG", "금리", "부채", "공사비", "민간참여", "매각", "리츠", "투자"], used, 1)
+    n_social = find_best_news_by_theme(news_list, ["지자체", "주민", "시장", "건의", "임대", "전세", "복지", "안전", "청년", "신혼"], used, 2)
+    n_org = find_best_news_by_theme(news_list, ["사장", "혁신", "조직", "노조", "청렴", "감사", "협약", "논의", "현안"], used, 3)
+    n_tech = find_best_news_by_theme(news_list, ["스마트", "디지털", "기술", "친환경", "해외", "에너지", "AI", "설계", "층간소음"], used, 4)
 
-    # 키워드 추출 (뉴스 제목에서 의미 있는 어절 추출)
-    keywords = ["#한국토지주택공사", "#3기신도시", "#공공주택_공급", "#재무건전성", "#택지개발"]
-    for news in news_list[:5]:
-        words = [w.strip("…·'\"[],") for w in news['title'].split() if len(w.strip("…·'\"[],")) >= 2]
-        if words:
-            kw = f"#{words[0]}_{words[1]}" if len(words) > 1 else f"#{words[0]}"
-            if kw not in keywords and len(keywords) < 9:
-                keywords.append(kw)
+    n1, n2, n3, n4, n5 = n_policy, n_econ, n_social, n_org, n_tech
+
+    # 키워드 추출 (대량 수집된 전체 뉴스에서 고빈도 핵심 키워드 추출)
+    keywords = ["#한국토지주택공사", "#3기신도시", "#공공주택_공급"]
+    stop_words = {"한국토지주택공사", "LH", "위한", "통해", "관련", "추진", "개최", "진행", "것으로", "밝혔다"}
+    word_freq = {}
+    for news in news_list:
+        words = [w.strip("…·'\"[],()!?") for w in news['title'].split()]
+        for w in words:
+            if len(w) >= 2 and w not in stop_words:
+                word_freq[w] = word_freq.get(w, 0) + 1
+                
+    # 빈도수 상위 단어를 해시태그로 변환
+    sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
+    for word, freq in sorted_words:
+        kw = f"#{word}"
+        if kw not in keywords and len(keywords) < 10:
+            keywords.append(kw)
 
     return {
         "opportunities": [
@@ -190,7 +241,7 @@ def analyze_news_with_ai(news_list):
     
     base_result = {
         "update_time": datetime.now(KST).strftime('%Y-%m-%d 09:00'),
-        "summary": f"오늘 오전 09:00 기준 총 {len(news_list)}건의 LH 관련 최신 언론 보도가 수집되어 8대 전략 분석 프레임워크 전체에 자동 반영되었습니다.",
+        "summary": f"오늘 오전 09:00 기준 총 {len(news_list)}건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
         "opportunities": dynamic_data["opportunities"],
         "threats": dynamic_data["threats"],
         "pest": dynamic_data["pest"],
@@ -200,7 +251,7 @@ def analyze_news_with_ai(news_list):
         "seven_s": dynamic_data["seven_s"],
         "vrio": dynamic_data["vrio"],
         "keywords": dynamic_data["keywords"],
-        "news_items": news_list[:5],
+        "news_items": news_list[:15], # 웹페이지에서 넉넉히 볼 수 있도록 상위 15개 주요 기사 전달
         "raw_news_count": len(news_list)
     }
 
