@@ -4,8 +4,11 @@ import xml.etree.ElementTree as ET
 from urllib.parse import quote
 import time
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import os
+
+# 대한민국 표준시(KST, UTC+9) 설정 (미국 깃허브 서버에서도 무조건 한국 날짜가 찍히도록 고정)
+KST = timezone(timedelta(hours=9))
 
 # OpenAI API를 사용하기 위한 라이브러리입니다. (설치: pip install openai)
 # 텍스트 마이닝(감성 분석, 토픽 모델링) 역할을 수행합니다.
@@ -32,7 +35,7 @@ def crawl_naver_news(keyword):
     네이버 뉴스 검색결과에서 기사를 수집하며, 네이버 개편이나 해외 서버 차단 시
     구글 뉴스 공식 한국어 RSS 피드를 통해 100% 안정적으로 최신 기사를 가져옵니다.
     """
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 🔍 '{keyword}' 뉴스 크롤링을 시작합니다...")
+    print(f"[{datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}] 🔍 '{keyword}' 뉴스 크롤링을 시작합니다...")
     
     url = f"https://search.naver.com/search.naver?where=news&query={keyword}"
     news_list = []
@@ -177,7 +180,7 @@ def analyze_news_with_ai(news_list):
     수집된 뉴스 데이터를 분석하여 데일리 리포트뿐만 아니라 8개 전략 분석 기법 전체의
     실시간 업데이트 데이터를 생성합니다.
     """
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 🧠 8대 전략 기법별 AI 텍스트 마이닝 분석을 시작합니다...")
+    print(f"[{datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}] 🧠 8대 전략 기법별 AI 텍스트 마이닝 분석을 시작합니다...")
     
     if not news_list:
         return {"error": "수집된 뉴스가 없습니다."}
@@ -186,7 +189,7 @@ def analyze_news_with_ai(news_list):
     dynamic_data = generate_dynamic_framework_insights(news_list)
     
     base_result = {
-        "update_time": datetime.now().strftime('%Y-%m-%d 09:00'),
+        "update_time": datetime.now(KST).strftime('%Y-%m-%d 09:00'),
         "summary": f"오늘 오전 09:00 기준 총 {len(news_list)}건의 LH 관련 최신 언론 보도가 수집되어 8대 전략 분석 프레임워크 전체에 자동 반영되었습니다.",
         "opportunities": dynamic_data["opportunities"],
         "threats": dynamic_data["threats"],
@@ -248,7 +251,7 @@ def daily_crawling_job():
     스케줄러에 의해 매일 특정 시간에 실행될 전체 작업 흐름(Pipeline)
     """
     print("\n" + "="*50)
-    print(f"🚀 자동화 작업 시작: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🚀 자동화 작업 시작 (한국시간): {datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}")
     print("="*50)
     
     # 1. 크롤링 (Data Gathering)
