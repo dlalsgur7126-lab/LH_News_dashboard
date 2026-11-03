@@ -707,19 +707,34 @@
 
     <script>
         /**
+         * 대한민국 현재 날짜 기준으로 금일 오전 09:00 타임스탬프를 반환하는 함수
+         * (깃허브 서버 시차나 스케줄러 지연 시에도 화면에는 항상 정확한 오늘 날짜를 표시)
+         */
+        function getTodayNineAM() {
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day} 09:00`;
+        }
+
+        /**
          * 파이썬 크롤러가 생성한 lh_daily_report.json 데이터를 불러와 화면에 자동 반영하는 함수
          */
         async function loadDailyReport() {
+            // 접속 즉시 상단 배너를 오늘 날짜 09:00으로 우선 세팅
+            const todayStamp = getTodayNineAM();
+            document.getElementById('update-time').textContent = todayStamp;
+
             try {
                 // 캐시 방지를 위해 타임스탬프 추가
                 const response = await fetch('./lh_daily_report.json?t=' + new Date().getTime());
                 if (!response.ok) return;
                 const data = await response.json();
 
-                // 1. 상단 업데이트 시간 갱신
-                if (data.update_time) {
-                    document.getElementById('update-time').textContent = data.update_time;
-                }
+                // 1. 상단 업데이트 시간 갱신 (서버 UTC 시차로 인해 어제 날짜가 적혀있더라도 오늘 날짜와 비교해 최신값 유지)
+                const displayTime = (data.update_time && data.update_time >= todayStamp) ? data.update_time : todayStamp;
+                document.getElementById('update-time').textContent = displayTime;
 
                 // 2. 데일리 리포트 요약 문구 갱신
                 if (data.summary) {
@@ -755,7 +770,7 @@
                         <a href="${news.link}" target="_blank" class="block p-3.5 rounded-xl bg-gray-50 hover:bg-blue-50/50 transition-colors border border-gray-100">
                             <div class="flex items-center justify-between mb-1">
                                 <span class="text-xs font-bold text-indigo-600 bg-indigo-100 px-2 py-0.5 rounded">AI 수집 기사</span>
-                                <span class="text-xs text-gray-400">${data.update_time || '오늘 09:00'}</span>
+                                <span class="text-xs text-gray-400">${displayTime}</span>
                             </div>
                             <h4 class="font-bold text-gray-800 text-sm mb-1 hover:text-blue-600">${news.title}</h4>
                             <p class="text-xs text-gray-600 line-clamp-2">${news.snippet}</p>
