@@ -1,87 +1,82 @@
 {
-    "update_time": "2026-11-03 09:00",
+    "update_time": "2026-11-04 09:00",
     "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
-        "<b>[금융·사업 기회]</b> LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제 통한 민간 건설사 참여 유인 및 공급 속도 제고",
+        "<b>[금일 보도 기회]</b> LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금융·사업 기회]</b> “신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> 양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
-        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>슈퍼브에이아이, LH 하자 분류 월 30만 장 처리 시스템 구축 - 디지털데일리</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>한국토지주택공사, 장애·비장애 아동 함께 노는 놀이터…12월 첫 적용 - 뉴스타운</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>양주시, 한국토지주택공사와 택지개발사업지구 현안 논의 - 뉴스핌</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
-        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>[단독]분사 갈등 속 LH 노조 선거…95% 지지에 '총파업' 가능성↑ - 머니투데이 - 머니투데이</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
-        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
-        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b>)이 핵심 주거 대안으로 부상.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
-        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
-        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
+        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b>) 및 주택공급 목표 달성 독려 지속.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
-        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
-        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>양주시, 한국토지주택공사와 택지개발사업지구 현안 논의 - 뉴스핌</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>양주시, 한국토지주택공사와 택지개발사업지구 현안 논의 - 뉴스핌</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>[단독]분사 갈등 속 LH 노조 선거…95% 지지에 '총파업' 가능성↑ - 머니투데이 - 머니투데이</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>[단독]분사 갈등 속 LH 노조 선거…95% 지지에 '총파업' 가능성↑ - 머니투데이 - 머니투데이</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> 양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
-        "tobe": "<b>[금일 도출된 해법]</b> LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제'</b> 및 <b>'LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "asis": "<b>[금일 포착된 현안]</b> LH, 세종 아파트 단지에 태양광 잉여전력 거래 첫 도입…입주민 관리비 부담 낮춘다 - 브릿지경제 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "tobe": "<b>[금일 도출된 해법]</b> “신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
+        "comment": "오늘 보도된 <b>'LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보'</b> 및 <b>'“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
+        "#LH·HUG",
         "#공공주택",
         "#민간참여",
         "#금융지원",
-        "#보증",
-        "#태양광",
-        "#LH·HUG",
+        "#머니투데이",
+        "#적용",
         "#4.7%"
     ],
     "news_items": [
         {
-            "title": "[게시판] LH, 통합놀이시설 디자인공모 당선작에 스페이스톡 선정 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90Y0JjVTc1VmRBVVpfVXdpUEhVX28tS3pPRkt0cjQtblVwQzhnQV91STJGQVlWVmRyMUs4NmptU0ZfZzhEQjdaSlZ1M1Y5OGpjRzEzX1Bjb0M5U3PSAWBBVV95cUxNdS01ZnVkYWdxR3VFOGx3RlRRYTNpczJUN2NnczRTNkg1TUtiQTBXaTdYQl90YllQRVdDRVBSTWhielp2TjNhc1czVExvMDlRZWI2UWtPcG9hU09FT3Rhb0M?oc=5",
-            "snippet": "발행일시: Tue, 03 Nov 2026 02:01:50 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "[단독]분사 갈등 속 LH 노조 선거…95% 지지에 '총파업' 가능성↑ - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jTDdzWHo2SDdNUkF4bnZ6YjFBalpldFdmMlY5Z1owYmpfa1VjY3czSHF5NlNzcTFuZHEwRnBYN0xJSDJFRFlaeHFYazBWemJuT1RValFMTXZsZVlqX3VnQ015OFphcm44ZEHSAW9BVV95cUxQSU5QYTZ4dWJXSV9UVFJMakd2ajBPUHBWVGVwVnlIQTRTSTMzSkJ5aWV5eE9aemNaZWhwOXhFUUFoZ2MxYzZTYmRVbkIzUmJ1RHZCWndqUE0zeUxSUFhaTDA1X2tnRDI4dUl1S3VMRnM?oc=5",
+            "snippet": "발행일시: Tue, 03 Nov 2026 23:52:03 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH·HUG, 민간참여 공공주택 금융지원 첫발…평택고덕 보증 약정 체결 - 브릿지경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XREdNRHdZUHdkMy1Mem9fR0pVRU52ekFrSnJhYmtoekJhSnQ1cDRrX0xQSktKbThCVHZhUWJvd3pOY2VSdHoxNzBGVExtZnRFZEs3YmxUcUV6QQ?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 04:42:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "한국토지주택공사, 장애·비장애 아동 함께 노는 놀이터…12월 첫 적용 - 뉴스타운",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96VkJaajlvaUJMZWdLYUpHUnBsT1RxWmdNY0drbkZyOEV3SDRDb2VUQW9HbmRUUlNqRlRRZS1fUzhNdDJpcVZ0X3h4OHMxaUJ1b3VkdUNNbXdGazI4UTN2eWdXOVJkSkVsYWFJTDVB?oc=5",
+            "snippet": "발행일시: Tue, 03 Nov 2026 11:27:34 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH·HUG, 민간참여 공공주택 첫 금융지원…1528억원 연 4.7% 대출 - 서울경제",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZRzQ5cmVXQW9YbEtZVWN1VmdJTldiZE1YUzlLSzZseG5uLVN6SEtsM2hOSWFLTnAzcUROc0lYRkRibHZqbGo2eklJdzJ0MGFWalHSAVNBVV95cUxPTUtlcll2bURmODBpZDIyYnJOMW0yN2FRUEpmdWJkTEJRejBKYldmcEpsSDA2QTlBalZyc2tHU1lZeExjc0ZNT0dpdGxGYjdYUXNyMA?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 06:18:36 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "한국토지주택공사, 1,528억 원 금융보증 첫 결실…대출금리 연 4.7% - 뉴스타운",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvWG13VmhIQ0x6bGNMNVdNMW1YWjJQc1lwQ3pzelozR0I2NFROODFqRDc0RkZ4UFJsN3ZrcjgyWUpiVHlDbnctSGFqNmlDMnI2N0J5Rk12SGtnaHVIVEZlU3JaSlE5TTA5eVFyN1Bn?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 13:39:05 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH 경기북부, 의정부용현·법조타운 보상속도 높여 주택공급 앞당긴다 - 인천일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNkFNX19ZRDJYWERmME80UXBHTHhfUVBQMWw3TXFYVlB1aGhrZF8yRmVVRXVnNnR6MXNPVzJ6Ulkwc2JDOUJpMWtFQTlMQWJ0NTNORkZJU29FdXlnUEJobHZ1dENnQ3VSSWl3U0RuMG8?oc=5",
+            "snippet": "발행일시: Tue, 03 Nov 2026 07:53:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "\"남는 태양광 전기로 관리비 줄인다\"… LH, 세종 아파트에 첫 도입 - 머니투데이 - 머니투데이",
@@ -99,14 +94,14 @@
             "snippet": "발행일시: Tue, 03 Nov 2026 01:12:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의 - 인천일보",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10ek9DVHRoN2lhWVY5LUhRVF9venVTUXRwc25xLWN0Z3U5U0RFWkVqeFRKc2FFUWdmMWdCSjdEV2tZSDlDaVdMb0p3dE5GQk1LbUEta19jeHRJdngzMlQ2Y3JTcEVreExUa2lKZWYyUlE?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 08:27:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
             "title": "양주시 택지개발 촉구 되풀이에도 LH ‘요지부동’ - 경인일보",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV3V4QklPLWVCU3FsSHhPTU1fQll4WjNlXzhjbllxZzN2R3kySnNESFNfNHlod3hsQ2p3YWVHOFU2azVJNDBlSzdxZ3pFb1ctOVE?oc=5",
             "snippet": "발행일시: Tue, 03 Nov 2026 02:47:25 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의 - 브릿지경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VVNtYTA3R3JhWkplT1ZJampXV1o0OHBGY1pXcEZvWWlVZEtkaWdkbVNmR2VIWWlZdWVnTlFsMWoxUnV2cEZZMWtNRmtnTTFIQWpxWjhQcmpMZw?oc=5",
+            "snippet": "발행일시: Mon, 02 Nov 2026 23:55:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "양주시, 한국토지주택공사와 택지개발사업지구 현안 논의 - 뉴스핌",
@@ -114,9 +109,9 @@
             "snippet": "발행일시: Mon, 02 Nov 2026 09:02:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 청년·신혼부부 매입임대주택 3차 입주자 모집…총 3천44호 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PdFowdk03QS1UOXNDUHd1ZkNOMXdnZmZraTF2OGNmLVBqWXVvc3dGZE9vQU9DSTczSEhXN2xlSGRfczQ2cnZBZG5qM1hqSzk3?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 14:35:29 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 2030년까지 모듈러주택 1.8만호 발주…'규모의 경제'로 단가 인하 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZkg5Sk1KbVVFZ3EwbFNWLXJpczN1YnJPNHhoUjdkSlNZWFlPUjdFaGdvNElZd25xNDJUY3hGTkx5RnIxMVByRGNRelZsakxTRUpMREduWUtwZw?oc=5",
+            "snippet": "발행일시: Tue, 03 Nov 2026 23:56:04 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "‘과천지식정보타운 마지막 행복주택’ S12블록 10일부터 청약접수 - 경기일보",
@@ -124,19 +119,24 @@
             "snippet": "발행일시: Mon, 02 Nov 2026 08:23:10 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "슈퍼브에이아이, LH 하자 분류 월 30만 장 처리 시스템 구축 - 디지털데일리",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EaVcwSEJCUDNxdHY0NFZia25IWnRCT0pOa1NZUWdSV2VUa3F0TUZycG1fVEZ3S2NtRFVTaVdad2pObjVRcHk3bUtabU5RZTBSdTFZbURXcmRoN1EtaXV0Y1FGMWU?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 01:41:40 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "평택고덕 A-63지구, LH·HUG 민간사업자 금융지원제도 첫 적용 사업지 결정 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ObUR6eXVGTVptMjJxTWlvdFNDQjViQVFJQmtUQU9qTnNXUVEwWl90MmFwYmVmQkIwYTZDc0FfWm5EVEFQQ3dUcHhWMkZvZnI3MFZ5U3IzQ1pjR0JPRHdzZ0hHTHFIUkhPM21yQXliVQ?oc=5",
+            "snippet": "발행일시: Mon, 02 Nov 2026 02:51:55 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 망원동 청년 매입임대 현장 점검 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44R2lSU3FURk5LSEtUa1k5WHVxZUY2ck1jbUoyeWNGQTFfVmxKaDVnY19aamtNblo4ZW42bFBwQXR1andRU2t1d2REZ29jWWc4U1JLWjVGRl9Gdw?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 09:29:42 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "HUG·LH, 민간참여 공공주택에 4.7% 대출…평택고덕 첫 적용 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rcGJpc295TUtOb3d2ZVF3SkNmOHR6Yk11TUh4LU5QN2RneFBkcUUzUUFqZ2UyX1RVbVNfbnlsVVlFT1VwVmRGek9EZEdIcENrXzdwNDBvVG5PeW5a?oc=5",
+            "snippet": "발행일시: Mon, 02 Nov 2026 06:34:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "정태성 제18대 LH 광주전남지역본부장 취임 - 남도일보",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vR3RCX1Zpci1yWTV5X0NlWmJGd1I0bUZoV2NPOGl5U2hJT2FKZHcyVWUxUU9CRnJOSU9BX0hFWEdJWXBWRUd6US0yQnB3UUdNY0VMZGp0ZGVqWnptNTVhRzlPVFBPamR3WXppMdIBcEFVX3lxTE5uWGlCQXBYaU5odHFXWDkxVFptemtiLWFqSFh6MFJjaHdOdFhpdjF3aThQNGdGcE1TSkdnZXBkSS11MXlvNzdTSlk5aHM1cF9ZVThsSHpRMUdUUWFyOTMtWmRpR09QN2VFcnlpS3k2Yks?oc=5",
-            "snippet": "발행일시: Mon, 02 Nov 2026 07:38:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH·HUG, 평택고덕 민간참여사업 1호 금융지원…4.7% 저리대출 시행 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZSWI4bXVlNWxvZGNYNkFTMUUxOXhNLVN3OXZJT2tYZ2plZHhRNVRCSHY3YmNGMEhJcW1pSTdmNTR5ZjdZejBJTTRzQWpkQ0psRGJDZXIwSU1BVzkyVmVZX2tuVE5YMXoteGNTTlB5OTk?oc=5",
+            "snippet": "발행일시: Mon, 02 Nov 2026 00:47:34 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "[사설] LH-울진 국가산단 협약 독소조항 두고 ‘정면충돌’ - 영남경제",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRkJ5MEwwVFlJOFQ2UUhHOXAxZU1abjl4bG95c3FCZWVOdW5Qa3JtQTl0bDdMWmt2N0FlOVE0dVZDcm1CXzYxUEJNcE4tQlhWUW52Rnh0T2JwZXdaUDRVTjdwNGtyRzQ?oc=5",
+            "snippet": "발행일시: Mon, 02 Nov 2026 07:33:36 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
     "raw_news_count": 35
