@@ -1,82 +1,97 @@
 {
-    "update_time": "2026-11-13 09:00",
+    "update_time": "2026-11-14 09:00",
     "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> 코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
-        "<b>[금융·사업 기회]</b> 정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24 통한 민간 건설사 참여 유인 및 공급 속도 제고",
+        "<b>[금일 보도 기회]</b> LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금융·사업 기회]</b> 코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> “실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> 인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
-        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>세종 스마트시티 선도지구 공식 브랜드로 ‘세종스마트시티 엘’ 확정 - 서울경제</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, '핵심 정책 사업지' 광명시흥·용인 반도체 산단 2조 추가 투입...후속 공정에 '속도감' - 스마트투데이</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>파주교육지원청, LH와 전국 첫 협약…학교 증축비 24억원 지원 - 경기일보</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
-        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH 상임감사위원에 임동혁 전 감사원 국민감사본부장 - Chosunbiz</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
-        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
-        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b>)이 핵심 주거 대안으로 부상.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
-        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
-        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
+        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b>) 및 주택공급 목표 달성 독려 지속.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: 코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
-        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
-        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>파주교육지원청, LH와 전국 첫 협약…학교 증축비 24억원 지원 - 경기일보</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>파주교육지원청, LH와 전국 첫 협약…학교 증축비 24억원 지원 - 경기일보</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH 상임감사위원에 임동혁 전 감사원 국민감사본부장 - Chosunbiz</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH 상임감사위원에 임동혁 전 감사원 국민감사본부장 - Chosunbiz</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> “실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
-        "tobe": "<b>[금일 도출된 해법]</b> 정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인'</b> 및 <b>'정부, 주택공급 속도 낸다더니⋯LH '파업 위기'·HUG '수장 공백' - 아이뉴스24'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "asis": "<b>[금일 포착된 현안]</b> 인천메세나협회, 계양신도시 첫 입주민에 해바라기 판화 선물 - 기호일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "tobe": "<b>[금일 도출된 해법]</b> 코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
+        "comment": "오늘 보도된 <b>'LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보'</b> 및 <b>'코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
         "#추가",
-        "#광명시흥·용인",
-        "#반도체",
-        "#2조원",
         "#투입",
-        "#속도",
-        "#임동혁"
+        "#임동혁",
+        "#3기",
+        "#신도시",
+        "#2조원",
+        "#한국토지주택공사(LH"
     ],
     "news_items": [
         {
-            "title": "LH 광명시흥·용인 반도체 산업단지에 2조원 추가 투입, 이성훈 \"핵심 사업 속도 높여\" - 비즈니스포스트",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QeWpNZVdJSmkwMVZVcU5GOVRTbEdkWUpSMC1JZjkteTd2REhpMkJQU1ZzbjlhU2ZzRXp2SGF3Y0ZjTjNIRzNwVWFYazI0SExON3NVV0w2VGN2dl9MWFdPd05ReHQ3dzFWMnIwMnVGWnlyaXc?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 06:19:58 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH 상임감사위원에 임동혁 전 감사원 국민감사본부장 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZklZOFdZajRIRUszS3Z0Ml95WC1pTFpTWkJLUGVCclY1VjlNYi1hR2NlV211ZDM3eHVEUmo1Um42NVVKbXZrWnVRM1NzS2t1eTQ4dWxnQU91SXZVbk1qbWpqVUxLQzFrcGNndk9zWmN4TXhUa1EybjROQVBjc2dKQTBLcmRiV2t1TV82dWZyazVFd0JzYm9tUtIBrAFBVV95cUxOWDEtN3hjV2gtRkdHS1U0QUVMMU8yYmxmaUhpWWlmdW1fWjJKZkFENnNLX3E2QTVVTTJXMHZtdndwcm9PaXcxTWd6TTFnb25rTVdLSm9DcDhKaEtRTVQ0bkwxc1M5QWdoZHhnWk1WUmttN2c1U2VpSkkyRWpZV0dNX0RJdlA0NmJDdXN6dnpONXhqcTFoTVR4bUYwY0p1TWlub08wVEZwZ3JRdUZq?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 04:57:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "한국토지주택공사, 건설업 임금체불 4,166억 원…10명 중 3명 지급 지연 - 뉴스타운",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yQmpNd2hWc1BrbkFGVjNpQ3hfbkVOQWNsVFIzRVg2VURnZ0RpNVZ5RnVJWnFKUWlQQzRCT2ZXY0xyWDVnVE5RMVRiOWh4UGVrV3ZpQXgtZ1ZmcW5adzZ3QkJBOFpQelhHbS1aN0NR?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 11:40:19 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 3기 신도시 인천계양 A2·3블록 첫 입주 맞이 행사 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zYUtaSG51VjhzLWs1UmFnckl1NnJydEFiQ3JJQkE4YU9xMWVILUUwdlc4TWVtMmNVQWlUbVVxUmJTVjhkV2pLMHlNZ0xXa3dyQ3dkWGdNQjNKX3JuTWhkcUhucG1HUmtSVXNKQzJyUQ?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 07:00:46 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "한국물 최초 30년물 엔화채 등장…LH, 장기 조달로 안정성 높인다 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pNFNabGZNMnByeHI2ejkwc3BBRmZoLUF5RmFPQURaemNGQXp2dFVoeHR4SERTZjJGdTRtd0VSaXJMNEtvQ0FuQTRZR3hHR0ZKMGNwUDQ4bGdsak5YTURxUlprWkRHTDdjOFVweWEyS0M?oc=5",
-            "snippet": "발행일시: Fri, 13 Nov 2026 01:42:55 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "토지 보상 서두르는 LH … 광명시흥에 1.3조 더 투입 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mc2xrMnJMSEV5X3IzdHI3LTJPMVUwYUN3UVdxWERiZ0Zrb0Viem51cjA0OHg1ZTZxaXZobldmNENTb2hYOS0yOGZjYmotYjFQOUE?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 08:17:39 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 광명시흥·용인 반도체 산단에 2조원 추가 투입…보상 속도 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NWkJ6c3Fidm9ONmtRR2taRWVMaU9ZX1p6UEFsM0RsOWVzay15YVBoc1hBUkh6TjJYLV9kSXlUV2thN2tFOHF0U012djZzSTZRZWxtVFFoYTRLSU3SAWBBVV95cUxOS29IZ3hienlBYkJyU2dPNk9vWklmZERhd0kyTGVlbUloc2ZoeHNpenhEcmtYeXVaenBkS3ZpX2JFckJlUFFKMVc3b0tYSkhoWkJHZTUyYzIySnBtU2hYQlY?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 00:22:07 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 광명시흥·용인 반도체에 2조원 추가 투입 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tb3Q1NGk2Ry03aGR0TXBtd2NKNExfOTZxSVNaZDVZaXhnRVF0bmxMMmhUaEZaa1BmM2pldlZ1Ym1uLVdpazFiVlFhbm5XbE01bE9faFJ1S0J2VlA4WGw0SXRBVW4waXM?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 20:12:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "국토부·LH, 공공재개발 수수료 3%→1%…구역당 평균 130억 절감 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fc1k2VkRtYWVuSkNBMkFzbTROWUxNa2ljZUU0MDFBa0JXdWhxY19KTG1ockNEaUZ3UHVKNFd1SVJpTjljRWowbURRZUh0WEJtUHNEa2JKZFFfTU1VVXNqTXQxeVVTSEg1OHhhWlhB?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 19:53:02 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "코레일·LH 파업에 HUG 사장 공백…국토부 산하기관 잇단 내홍 - 마켓인",
@@ -84,59 +99,44 @@
             "snippet": "발행일시: Thu, 12 Nov 2026 07:37:46 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "파주교육지원청, LH와 전국 첫 협약…학교 증축비 24억원 지원 - 경기일보",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icW1GWk9tMUY4ZWZqdVlEdEJ2V21jajJJQ1ZaeHo2ZUFHa1RtalJVYzJtaTEwRXE3alJOdWhwOXZhZ2FHR0dlbFRSMDQweVZFTkhucXF0Sm1Zc0U?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 06:10:25 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
             "title": "“현관문 걷어찬 옆집 남고, 피해자가 떠났다” LH, 재계약 거절 기준 만든다 [부동산360] - 헤럴드경제",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HQVdQNXVMRmROc1JNTmdIcXdaUjN6VEd6VVNUWWpEcFBqYzFrbkpwQ2dqM3poTzFXRHR2dWFCeHRnMEhHdllxOFNqQ2dmWDMyZzRRYWdn?oc=5",
             "snippet": "발행일시: Fri, 13 Nov 2026 00:11:08 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH경기북부, 범죄예방대상 ‘경찰청장 표창’ 수상 - 기호일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kdlpVVWNOelRtdjBXbE1fa3VEblY5RTdDTU5xdUpsSHNTVE1Bc1Z6aTBTTzQxM0JBM0JrWWRrOXJhc0Nncm1RaXIwc2NoeEdpeXlGNVA2SllqdFlkeFI2WDdiWUpCZEpwLTRmWllCQQ?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 08:03:24 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 건설근로자 임금체불 근절 추진… 국회서 지급체계 개선 논의 - 천지일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14WnpPSnRBc3BqNFk0ZVR0NlRHZWZJRjlEelRzS2lnUkJMck9lSHBkZ21KdGU0V2Mwa1Z5V1JxeWpMcXQ2S1pTZjhjTVpkVzRJRWhSQ1dqMDFnWFdEWTVjQkZTbGtSYVk2eUE?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 14:52:36 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "“실사는 했나”…月10만원 LH 임대주택, 8년째 빈집인 이유 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80MDJMTDZoY05ncGdjS1JjclAtTmpHclFLVGNMa01Vb1R3SWNxUTJfMjNGUE9rXzhTV0p0SDFsV1JBQmxUVWpvT1lwVGVaYnA1WWR5YkF3?oc=5",
-            "snippet": "발행일시: Wed, 11 Nov 2026 20:01:11 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "평택시, LH에 교통대책 재검토 요구…\"과거 축소된 도로계획 개선돼야\" - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SVjJMLTRzMENwd1hBSTdXSGVNa0RjdG43QjVBbXFDbG5SbXdkZDV2SWgyQVhnRjNYVUtURDg2Vnd1Q1lpSllOVDlqeE5FUDJ6bEpKUHRhVjd1RENY?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 05:58:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "국토부, LH 공공재개발 때 주민 부담 수수료 3%에서 1%로 낮춰 - 국제신문",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUY1bmpKb19taUFJTEs0blcxMWk0UnhsREhzTlRLb3BXeTJuOHVReDlqZnVicHF4TnlSTV82aEVNUUU0MUJ2d1NZVlhsbHNQTjhVcXdXd0ZsaE9XTHZxY2ZGUFlPQUxMMWhUaXRTUzNwVnJUNWxiVmlpamhiaE5yOEhyTjl2LThqZEZz?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 02:02:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 건설노동자 임금체불 근절 위한 국회 정책토론회 개최 - 한국건설신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xd0xzXzE2NFhVLWlvN1BQYXczVWtJS0txa2dNcmZuWlUzTjRic3Rla0ZNVmhwSGtuaEpjaFMxLWtQVGV6cENfQjBHRnJYVWVQSHN6bmZxTWc0R3pkcHJvc1NDWk1GYW9XckRz?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 00:59:23 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "박현근 LH 공공주택본부장, 취임 한달 '연간 착공 목표' 달성할까 - Daum",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4MDllYWxYcnFubkpibWF3MndoclBBMVZua2ZnaTRKT0tpSjhNclR3TXZ5bmJzSlZFUi05X0E0OEs5ZDJtVFE?oc=5",
-            "snippet": "발행일시: Wed, 11 Nov 2026 08:46:34 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "임동혁 전 감사원 본부장, LH 신임 상임감사위원 임명 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdHZWcG9JbzdkX0pWV2x3WWJlVGtpcG9CUk5NbkVTU3pDNV9fWlBjVTdDclRDMDl5dlBNeFo3eTdxR1gtZXNwS0hxYVBaY0R2VXQzMEktYnlkRTJhSk41MQ?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 06:35:33 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "한국토지주택공사(LH), 건설근로자 임금체불 제로를 위한 국회 정책토론회 개최 - 세계환경신문",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CVFkzNk95bk1FTnJvM1R6d3NKdUdjOEY4MkM2bkFubUYzVnBOc25uU1ZVTDdGald5X0NZT2lfTlMyWG0wVVFTT3hvVFNYc3p2VzBYRmc5Qks4UWRZY0JR?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 09:03:27 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "[인사] 한국토지주택공사(LH) - 시사캐스트",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BYjFjN0EtdXYycnJvNG84Zi1tS1h3bXZicWtXQ0ppdFVuN0ZldmRSMmpPQXhQSXhLRjNvQkxSMWdYdWN1SkxKbjJCWXdpWnZVVzBDeHN2QjFNQXJZYzFzYWgyRm9qaE53?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 08:10:03 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 신임 상임감사에 임동혁 전 감사원 본부장 임명 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBYSEdNRElKQjBkMmFLXzE3cFlIemJPOWU3S1gtdFNfMnNqQlJGQWlzZmdTZGh5aXl6cFVqRHQ1T3dyWWhkMkRJRkRUOGRUamhTZ05qdFJsMHZhUUdpb2E3WVNUYnhDbFRyYlhZeEJ4dk1GSVRPck1ZaV81XzE5S3BaRmMzME1pMkE?oc=5",
-            "snippet": "발행일시: Fri, 13 Nov 2026 02:37:25 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "3기 신도시·반도체 클러스터 판 키운다… LH, 연내 2兆 추가 투입 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejkyWE0tdUoyVTZzVFJUZjYtOHlMMzdTMm9Qa1dPV3JDbkZ3LXYyajl2QnV4TlJrMjhvT2FUaGx2emRHaExzRmlxUFplcjdNQ2FnUHh6YWVtTjVYMDR4SkgxX3gwQ1NxUUg1VFVtel96dElweFlteVktNHJMVFFsYmQySU9jdldBVjBtSUNxOFZ1OU40b2NKMdIBrAFBVV95cUxPZ2I2MkV4QXdydVpabVhYWUgwVHlraFpCV1dWOXNWMW9tNmFZeFVVU3U3bHNuNml2cHN4U1JVclBfWUNFUDlMZnJKVHBQelBmUEI3UzhGbjFCcmUyanhnTFc1MzdpNU5xbF9pelVONmduOEZrLWJBRy1Edlk4blF1WTBrUlBaMnpINExFd0hWSVpwdW5oLW5MZHhoal8xSUpKbkhpNFdTRnl3M09K?oc=5",
+            "snippet": "발행일시: Thu, 12 Nov 2026 06:49:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "금강주택, LH 제주동부공원 A-1BL 공동주택 1공구 1순위 - 대한경제",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1reHV5N3AyWk5kLWx1c0JHRHE5MERZckctVThGLW1UZGs5WUh1SDB5dDFITDJOOFNOeENoelN2NTB5cUl1dWMzS3JXaEN5YTdWNVktZGl3cV92eEo4elZKb21JSW5idlNOQUhlZjkwbzVLSTN6?oc=5",
-            "snippet": "발행일시: Thu, 12 Nov 2026 23:05:30 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH 신임 상임감사위원에 임동혁 전 감사원 본부장 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpTUtCVkxyRE1kbHppalZ1dVZpVFB5cnpydWRtU3AxMjk5UGU1aWJyY3h6Z096aGIta0FQeXFiUHdaQm1oQnp5LWRQOU8xQl90X0o0MlJ1cWNlUQ?oc=5",
-            "snippet": "발행일시: Fri, 13 Nov 2026 02:47:30 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 임동혁 신임 상임감사위원 임명 - 톱데일리",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XT1NuQjE0Y25jOGc3Z2piMEE2RDdpS2l0eW9HeW5yTk1LS0tuMEMyTVB5REFic1pVX3BGNC1UQkdkS1JSN3RpQS00dG1EQWxG?oc=5",
-            "snippet": "발행일시: Fri, 13 Nov 2026 02:45:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "﻿﻿한국토지주택공사(LH) 신임 상임감사위원에 임동혁 전 감사원 국민감사본부장 임명 - 비즈니스리포트",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vdENiRmEza1Bnb2Y3MmlCS2ZTVHozdHFRaF9XZzBDTmxGc2UxR1h2Snk1UExFcmpwTTliaGN2UkxPZkxsRzRmRkRDM3NaYU8zd1BwSDNwcjhmLVJWaWx0cjUxQWcwTVYxMDJKWlZzYw?oc=5",
+            "snippet": "발행일시: Fri, 13 Nov 2026 07:13:34 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
     "raw_news_count": 35
