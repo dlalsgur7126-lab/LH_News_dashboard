@@ -1,72 +1,132 @@
 {
-    "update_time": "2026-11-15 09:00",
+    "update_time": "2026-11-16 09:00",
     "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
-        "<b>[금융·사업 기회]</b> LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이 통한 민간 건설사 참여 유인 및 공급 속도 제고",
+        "<b>[금일 보도 기회]</b> LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금융·사업 기회]</b> LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
-        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH \"도심복합사업 지연은 서울시 내부 검토·심의 때문\" - 연합뉴스</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH의 250년 느티나무 품은 '동탄 느티공원' 국무총리상 - 뉴시스</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH, 건설업계와 주택공급 간담회…공사비 현실화·민간 자율권 확대 논의 - 세계일보</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
-        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>이성훈 LH 사장 “공공·민간 힘 모아 주택공급 새 물꼬 틀 것” - 마켓인</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
-        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
-        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b>)이 핵심 주거 대안으로 부상.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
-        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
-        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
+        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b>) 및 주택공급 목표 달성 독려 지속.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
-        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
-        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH, 건설업계와 주택공급 간담회…공사비 현실화·민간 자율권 확대 논의 - 세계일보</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH, 건설업계와 주택공급 간담회…공사비 현실화·민간 자율권 확대 논의 - 세계일보</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>이성훈 LH 사장 “공공·민간 힘 모아 주택공급 새 물꼬 틀 것” - 마켓인</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>이성훈 LH 사장 “공공·민간 힘 모아 주택공급 새 물꼬 틀 것” - 마켓인</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
-        "tobe": "<b>[금일 도출된 해법]</b> LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz'</b> 및 <b>'LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "asis": "<b>[금일 포착된 현안]</b> LH·주택협회, 공공주택 공급 '속도'…공사비·사업 여건 개선 논의 - 청년일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "tobe": "<b>[금일 도출된 해법]</b> LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
+        "comment": "오늘 보도된 <b>'LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제'</b> 및 <b>'LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
-        "#공급",
-        "#주택공급",
         "#공공주택",
-        "#신속공급",
+        "#공급",
+        "#공모",
         "#속도",
-        "#논의",
-        "#확대"
+        "#하반기",
+        "#민간참여",
+        "#국무총리상"
     ],
     "news_items": [
+        {
+            "title": "LH의 250년 느티나무 품은 '동탄 느티공원' 국무총리상 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wLU5uT2lEaGpuX1pnRWEzOEJnZlNtVlR1VXBVVjE2QkFkYWVPb2ZpWDhNdkJJSzFsYS1aZWJtaUpVZEVGa2Y0U1NYeHNuMkdUc1o2YnY2b1BBZktMWmtpcNIBeEFVX3lxTE9ZM1pzR2NXWlJGa05MdWI5cVdFdkZZSk1pWlQxMWY0QTY1R3VsR25NXzJnMEplVWZKY1hSSGhuQ3RjaFJIMTQ4aGRFM0R1NDhTWHhXVEFicFo2bm9BeFVnTVRCNVotaEktUWx0UGNhdUdsZVVyY1pDWg?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 00:45:43 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH 조성 화성동탄2 바랑골 느티공원, 대한민국조경대상서 국무총리상 수상 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50SWhFcUNMOUQ2cU4wSDVpSkdrbWR4RGt4VGdZMHNGUkpwcno3NVJlOXh4ZnZBX2hfNVZNb0wwNTZ5d0N0Z2dULTBhN01PMlYzZEZad3hkN1VXU1FEdHlDQ1l5RUx3dUp0VW1DbEFRNA?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 02:26:19 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 2026년 대한민국 조경대상 국무총리상 수상 - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SLVBGQ2hsbGRtV0tfeHZELWlsU2ZRUFBVVUNnNFpVeDRzS2drdjdYa2Y2OGxQUHdMVnZxbW5XVUdyODF3WWQ3NVRIUGpNZzdLYmJ4cUNn?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 01:06:18 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 연말까지 민간참여 공공주택 9000여 가구 공모 - 전기신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qZE0wdWxKY1loZE1VcS1ucEZWSWt3c21GRm9GSkoxcjh0bEkwNy1qamI1bTg3cTEzTG1HX2E4VDdDekJUNEJuYi14dlBxVkxaTnJKQ0J1cWRqSUlzTWE4YTY2RzRFU3lQZDU4VtIBcEFVX3lxTE9HODlCOTNKM0w5R2Y0RTFIc1NtSkFFWDFyVF9FdjlENGZvNFRfZXBMaERHd0JzWWZmeFdYdk9VSmlNUDNvcklKRW5vdFBabTlsV2R0UVFaak1DbUlPV05pSGlCbFJNcUR2a09wU1dHNTQ?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 02:29:32 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "“LH 불신 때문” vs “서울시 탓”… 도심복합사업 지연 두고 ‘네 탓 공방’ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3VwSDk1d18zZ2ZjV1ppNDNkZGNWRk5nejVrNFFmd0I4Zk9PVzgwTGlwSXc2bzRLd0Q5TXNGNThUUkRwMkpKeF8wRUV0dmVmYXBmUV9ha0lRbFBXcnMzMEJuak9EcVZ5T21SUEdaSVFDNmhkaVpicVZUODVhdHg4dEpVOGw1Nk5qRGFCdkhYQXJMMGJ2amxKWtIBrAFBVV95cUxPd2VkWnlJN05fX0ZPOEc2WnFsdFY1dGV0RzVtRGJOdjVBaXBYTmdpNEc0ajI4bERER2hqZTF2RnFvR2swMzV5d2thLUVxTERDdTdQWExabmN4c0VmcEF6SnRaUFQ4WU41bFduaU1LLUZGc1otYk1wei1TVVFlaE9NUzVoRWNGUUwzZHE1NHlPY0Z1SExnS2s4RzNmNTFRQVIzS0JPdFhrQnk4MVJk?oc=5",
+            "snippet": "발행일시: Sun, 15 Nov 2026 05:14:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH “도심복합사업 지연, 우리 탓 아닌 서울시 사전절차 때문” - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teFZNVnV0cXFWeXF2dkMzWDY4bVFOdlZIYXZnZjJtM29rMTZ6cDF5VXhZZjF2Wnl0UGFLbWZPcGUzeVNXNHdXbGFBYzJmTDZ5UHRiMHFRN3RDaXJ5MURxekxBbm5rMzd5UGpkVGRkX28za0U?oc=5",
+            "snippet": "발행일시: Sun, 15 Nov 2026 04:14:11 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
         {
             "title": "LH \"도심복합사업 지연은 서울시 내부 검토·심의 때문\" - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XaTc4OFRPX0ExMzlpSHp5bl9lYTFRUHhRX045aWxoUnJkdktWZXFFVE1QUERYUE5qQW1tTWRIaDE0OWVLZ1pOMnhoNHdvS1ZyTW4tTFJ1cDU5Qm_SAWBBVV95cUxONFp2QjRfUDRiLWRwbm1Qb0hnYUMtSkdYTDN2WDktRjJMd2RvUnBFa3ZCRVY0V2R5LXRHcEZmbnBFNU8wVFBObjhlY2lQcExwc3Nsa1ZkLWxVS1R2OVl3ZUM?oc=5",
             "snippet": "발행일시: Sun, 15 Nov 2026 02:40:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH 매입임대 출자금 환원 2.5배로…물량보다 실수요 중심 공급해야 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSXBDWldPbEZTQ2s2eC0tUFFJQUtacllXWXR2ZVdYVmNvU3pEUmk0eWNna3VqSXM2TFpxeFhqbW15VnMtRFVGS2pfcl9CczBoem9wQmFibEJEZ9IBWEFVX3lxTE84bXJyQW5JNThTc3ZScnZNQ0lPeUxFZkluTk1EZkliYVd4RjF1cUw2R3lyN2xQcWs0Yk5MUkZkYzZhSWdJaDNaNnRBWlExNmE0ZDhqMFloYkE?oc=5",
+            "snippet": "발행일시: Sun, 15 Nov 2026 04:30:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "한국토지주택공사(LH), 하반기 10개 블록 9천 가구 민간참여사업 공모 - 국토일보",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NUWFVUnlnQ1BEdGdOM3VqTDVGSDJnblplbmwtdlRra3BscWhMcElHUGhjTHJJalUtZC05b3MtNWs3Sjg0WWNvVEFwV0lzY3VRYzNKVXBRQ09GeF9USjNWZ2oxVQ?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 00:09:24 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "이성훈 LH 사장 “공공·민간 힘 모아 주택공급 새 물꼬 틀 것” - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByNlh5TlNXYjcxNXM3OThJWlVNLXU0b2dVOUZ2aEFlVmkzZEZtLUhqcDFHWUtFZXU0MmFtMjFCdnU2eHY5dlJUc2lBcTM4TThsSXpUbDMwMmtmMDlaOHRQOEtYci1UYm9kU2dXNm0tTl9DWlk?oc=5",
+            "snippet": "발행일시: Sun, 15 Nov 2026 00:21:19 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "공급 속도 내는 LH…사업기간 단축 평가 신설, 하반기 9000호 공모 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDb1lwcEF2a0tnY2N4a01TQ01kLUVGeW1Yam1hdktTVGMzb2hMNElaemk4RE1JV2dCOWN0a0dCdlFKWnJVaGVydkJGMzIxb2ZLcm1VSGo5X1c?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 00:21:26 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 9000호 규모 민간 참여 사업 공모…\"공급 확대 마중물\" - 스트레이트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xYVZmdFNMWk03b2o1UmxXVGdtM2RLTlpSUU13VXAwTzVmVUk4Mkt4Y0ZvRVgzYTZLc0Y5TUFwSWZURzR1ZXdEOEVBQVVpclg5c2pVc3pkTTNYdW9PSjI4LTgzNDE1VHQ5N2NidzdsbGQxN3M?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 00:26:08 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 공공주택 공급 속도 높인다…공기 단축 평가항목 신설 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUGp6dW53S3VidWRyaEhGVHphZlhuSlFPWnViUzlNNTZXZEVKb2lZS3pGVmpORklYZWZtUmEwSFlMMlZfVV96RlE3TzMxWS16UWhHcG5ZRXJwdUdqNnRLb9IBeEFVX3lxTE5rOXJXa3hjd2ZXOUxlWGdCV05qVG5SaW5uV1R3bXliWGFXNG5zdGVpVlF3T0Z3UVAzWk5QLTdydmNBT1hHb1JVSk83UTZIZWRTNnhwb1pUMkVkMGxwM1RON1RReVpIVVdfQXVvVTJsX0NGRWVFZnBIbg?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 01:01:42 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "LH, 건설업계 만나 공공주택 신속 공급 방안 논의 - Chosunbiz",
@@ -74,69 +134,9 @@
             "snippet": "발행일시: Sun, 15 Nov 2026 01:16:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 주택협회와 '공공주택 신속공급' 간담회 개최 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfa01NeXJ6aFVNSDhMSzdpaWZrSUZzenVCb2RkWVdkOTFfbGsycVZJVG1rZGdNUW9UbzlPcUdEMktibDRsVW9NeU1iRXJNbGltdHRTbGJqT2RHdWdiRVliR9IBeEFVX3lxTE56bWlpNmI0c3RlVk1HU1BrRGs3NGEyRkR0MXFTZ3dJWmxBdXhDM0NtTm00Ui1scmMtbjdHUUhPV2wwZ0x2dElST3lobFk5Uy1tck11RDQ3VEhnUFRCTHJ5Z1NhbFBxNWtrUTRHbWowZDJ1RlEyc1VIMQ?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 01:12:38 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - 이투데이",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14ak1zeGpKVDlrVkdhZEkyYXJvbnVZMUlfWGo2bXY4QU9HSjEwU2xGR3pCNXBRNUQ2MnNwZmpaVFBIV2F2ZnN1UjR1N1pSUFBmZHZiRg?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 00:30:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH·건설업계, 주택공급 속도 높인다…\"민간 사업 참여 여건 개선\" - 브릿지경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abk9HcThQaVBtd1lHWG1xbWVfeTBQVVpDUThZSkJ3c2ZORUw0bHZHNU9FVFRXMlM0djJjWDBQQ21nbWdtYl8xU0EycE5mT0htdUtVc3F4d1NPQQ?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 00:25:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 한국주택협회와 머리 맞댔다… “공공주택 신속공급 협력” - 대한경제",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83U3Fzcmc1bnFfVFJEQ0ZCLVFoeWlhdXFwclRGMW13S0s2UXlVeDZnOWFrbkN5MThvRGh6aGpVTFQzdnluQ1J6MFFwUzMyZ3ZTTDMtUmVnM3pTOU5tTWV6RUVRUWZvcUkzc0hfY2pJb2tWZUFk?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 02:17:23 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 건설업계와 주택공급 간담회…공사비 현실화·민간 자율권 확대 논의 - 세계일보",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlNkNUdkRGN1ZaR3JyTDVwN1NKaEFCa2xfbHI3bm15VURsQVd0SWJRV0pKLWh5WTJISjNnX193RGJta1hRc2lvcmlJM0l1ZGozRlNBdWY5cXHSAVRBVV95cUxOZjN3U3BfQWVTTV9RODhiQnR3LUJlbFFaZnVaWFlHSjNObHZ3QTlhU2JNdlJheENtVHJIM0tVd0pjWXJfbWRYcTJ5NU9NdzZWb0h6bV8?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 02:32:07 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "이성훈 LH 사장 “공공·민간 힘 모아 주택공급 새 물꼬 틀 것” - 이데일리",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVdtTGNhaThyeG0ybkpmcXpxX3AzSXlodVRiMFBhWG1YVDNIbTUtQ19wNlpJWUtIWG5wVGU2b1BIYlFhWUtPeEpxcjhIVGU3ZXRmaFZ1eENBNDF6dEwzdWYzQ1dCWmkwTXdHQW5jOUhrRUFGMVlHSGxsaVhjcTRIMQ?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 00:21:19 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 건설업계와 공공주택 신속공급 간담회…\"민간 협조 필요\" - news.sbs.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbXF6eDZLRHNaV0JvWHBCQ3d1SUtUeU1yM09XbXBxWElxQVUtQUVTMjQ3ODl0R09PRmxhS05PUG4yY1YxYmYxTXlWSnJuVmlxUkRNWERvaGllTzlOODB4LVVxS0I4Q01rSFp5cjF0VEtKNWM0c203UlNFNlA3Tl9ZUk9SeERzZw?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 01:17:53 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 민간 건설업계와 협력 강화…공공주택 공급 속도 높인다 - 국제뉴스",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNVRKN1ZsZm5VRGdMblk3Y0FEaDU4LUJFZ0NtNDJiNjBrNVNyam8zUXlzUnA2MkNDcjFGc2lfUWdLQVVFVGt2cDZvZm0wWjNFVFg2ZXlsTFN3QVZESUhQa3YyUmFUdXF4TTBBUDBn?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 01:42:52 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 한국주택협회와 공공주택 신속 공급 협력 강화 - BBS불교방송",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZ0d5VFpPSGFvQlRzbkVVRWRrLUxiQ09JR2dhb2pwTFRwUl84LXR2eHhIWWVrVjJvenlzQjlQRU94Ui1yaUYzak9EQzFIc1BGa3FrWWIxZVJ6N2pQZm5jRUwxcUhOc1gxMGRn?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 01:28:26 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "이성훈 LH사장의 공급 드라이브...이번엔 건설업계 간담회 - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWkhDZ0dNSXZtak1KYmtfWmIwMFpTUjhyeXZjeERDYmVWNEdEdzlMZFRSd0hlQTdiOGU2bkE3X2EzRDFuRzZBdWt1WnRJb1BMZTFTWllDd1dHVTJ5N1RPaDVxN0JQRW0xbUFMd3kwNzBPbjBXNEkw0gF8QVVfeXFMTXFjZGhadkw0WlkwNGZfUl9odlhtU0NDZ1RlRmUzRHVYc0tmb1FZNmdDQm05UF96UFBldzYwR3djVTlKaXlZdmRrSk8xVVpLMFloUnNLaU1jOG03aFlld2pfbnBjUzZZbGQ0cDVHdVRUZFhnYlFLUmN4MUpWaw?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 02:07:26 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH 고용안정 교섭에 정부 개혁안 변수…17일 회신 시한 임박 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrQmpVUkZpbnpmcFY2MFhKbFRFVk5pal9WajVScnFVY3dpVU56QjJGdFBnX2NHXzY1dkNGTEpubjUxLVVPOEQ0X0Nkbjh3WDZkTTVwRFlMYnhKVTg?oc=5",
-            "snippet": "발행일시: Sat, 14 Nov 2026 20:20:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 주택협회와 주택 신속공급 간담회 열어 : 부동산 - 재경일보",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zN0g4X3h1dFVIUURFeHN5b1BMVW9JWksyVU1FSUVXU29oRXNIZVAtVjB2MHRlUldFd0M0a0RUQmhIbTdYeERkWU5sYw?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 01:17:15 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH·한국주택협회, 주택공급 확대 논의...공사비 현실화 등 건의 - 뉴스락",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VzdxTzFmOEpSV1Fha2U1TGdaQndnSEZlSmdyaFVqZWp0b0Y5ckNzVWVZbjhDZUJQQkJvSndBRjJrekpXSFZCX21KRDBady1OanFrcU9VTWs1RUJNenlSblhZWmRici11LWVOYg?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 02:09:38 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 남양주왕숙·고양창릉 등 공공주택 9000가구 민간참여사업 공모 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzloYk01Ti1PY2xpTkl3ZUJYWjZTLVc4di0xak5wS2l4NnJrTm16Z3hkT3R0a3U1TGJRV2NOc2lINlN1SjlsaW5RMzBob1lrTGxtU19Db29xS1hreTJTMF93MHowV0NseDVqRjdWdVJNYXRNcTI1QTctdWdoZEF0dzNIYTJ1czJjWTUyVVF3dVp2emdpMDJYddIBrAFBVV95cUxQTFp6NVVFWlA5b1JCNGtKOE5OM0l3VnNZNVZMTUZiQ3h3RUxTdDdXQlhCQjJBZy0tbnZKaWt6aWZHeWloblNkblJ2MXQ3UmIxZE1IMWppZXRTUjluRWk4VXZDelpzUEl6bnVNeTVWeV9kSTlOZHhmWTVWRHBZcnFZV3pMVlJnNi1HU1VDdXgtdmlrRnNMVVphaDlHa0c1YnpxQVZueW5kMmhSVmVr?oc=5",
+            "snippet": "발행일시: Sun, 15 Nov 2026 23:59:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
     "raw_news_count": 35
