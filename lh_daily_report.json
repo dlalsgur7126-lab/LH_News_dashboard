@@ -1,142 +1,142 @@
 {
-    "update_time": "2026-11-17 09:00",
+    "update_time": "2026-11-18 09:00",
     "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> 한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
-        "<b>[금융·사업 기회]</b> LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스 통한 민간 건설사 참여 유인 및 공급 속도 제고",
+        "<b>[금일 보도 기회]</b> LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금융·사업 기회]</b> [단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> 한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> “청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
-        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 3기 신도시에 레미콘 스마트 관리시스템 ‘LH 레미온’ 도입 - 기호일보</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>[용인 반도체 국가산단]'보상 속도전' 나선 LH…연내 마무리 총력 - 연합인포맥스</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>부천시-LH, 청년 드림주택 임대료 월 20만원 지원 협약 - 뉴스1</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
-        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>부천시·LH, 청년매입임대주택 임대료 지원 협약 - 국제뉴스</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
-        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
-        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b>)이 핵심 주거 대안으로 부상.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
-        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
-        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
+        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b>) 및 주택공급 목표 달성 독려 지속.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: 한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
-        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
-        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>부천시-LH, 청년 드림주택 임대료 월 20만원 지원 협약 - 뉴스1</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>부천시-LH, 청년 드림주택 임대료 월 20만원 지원 협약 - 뉴스1</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>부천시·LH, 청년매입임대주택 임대료 지원 협약 - 국제뉴스</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>부천시·LH, 청년매입임대주택 임대료 지원 협약 - 국제뉴스</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> 한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
-        "tobe": "<b>[금일 도출된 해법]</b> LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운'</b> 및 <b>'LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "asis": "<b>[금일 포착된 현안]</b> “청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "tobe": "<b>[금일 도출된 해법]</b> [단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
+        "comment": "오늘 보도된 <b>'LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문'</b> 및 <b>'[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
-        "#공공주택",
-        "#레미콘",
-        "#품질",
-        "#높인다",
-        "#속도",
+        "#서초양재",
+        "#서울",
         "#공급",
-        "#신속공급"
+        "#가로주택정비",
+        "#공공주택",
+        "#착공",
+        "#주택공급"
     ],
     "news_items": [
         {
-            "title": "LH 장기차입금 첫 100조 돌파…상반기 금융원가만 6천300억 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16TWp3clFQRW9qclVlN1JWOEtXbE84QTlZX285Nk03TTVYZkhRS1lKTjVFOGJONVFrcE5fQzZnNTYwaUpRaDlEd3VKaTNDN1FXSWd4TmtKZGplWVZaWHdlXzZtMkJqU2pidkl4TDlGb1k?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 01:07:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 서초양재 가로주택정비사업 착공…2030년까지 서울 1.1만호 추진 - 전기신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcmk0anBuVzR1X3VSeGQ5SGhfbHNWMzNEZ2N3UmRMdjdFT21lX0l4bEd4QXBnSk5CZVlFVEFSaGxuZjQzcnFOS0p1VjZWdzU2RUFjX2ptQ2JjSXJLX2hxQWhjb3ctSUo3QmtxONIBcEFVX3lxTFBQZktqZ1BiNFdNYk40WUJxVEtVeTdBZmF6T3AtWFpXcmhTMmJWbFJiaTFFU190Ml9jMDNZVkYwWTN1Qjd2SzkxcGFRZXp4a3pvS0hTcVQ2Z0FPRXFDQlpYS1NFQ3dyTHZsYUdrcDIxd1c?oc=5",
+            "snippet": "발행일시: Wed, 18 Nov 2026 02:45:53 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "한국토지주택공사, 공공주택 9천 호 추가 공모…2027년 착공 목표 - 뉴스타운",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KS2hqUS05bUFjQXB0WUdvekpEeXh3am9jRE5SV2ZGQjdqNEZtLWtLMVhpM3NqM1Y0Q1pxQXZGbDlpQmRpSnIzUjA4T2pUX1dwMmlzQmI0OHlyNlF5X0M2eEE0RDdyRzBCRjdvNlhR?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 14:14:49 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "[용인 반도체 국가산단]'보상 속도전' 나선 LH…연내 마무리 총력 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZkJ0S2IyeWFXWnN5eHFOOENmZWt1ZmVHZHJXdXpsWlpWZVFRSzVsT3FQTzVJcmhUMkNkSDc3LVUxWERYRlU1QkdZRUdYVlIyQXhRcU1SSmdmdjhIY0N5dnpVZnJYRklDYjdyVkt2Vzk?oc=5",
+            "snippet": "발행일시: Wed, 18 Nov 2026 01:49:17 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "한국토지주택공사(LH)-부천시, 청년드림주택 업무협약 체결 - 기호일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56VldfYi1wOHBWMDFwbDMyQlVGZ3QwZEVGWm16MnF4Q01SZzZiVkIwM0U5VjlES29UWW1lZjZIS3RfZkZLd203a250TXhvRFJjdXRSNHRFaXJVTUNlaVFHblRTZkdPYmFpMmVyVjVBNA?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 03:33:02 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대 - 뉴스타운",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tUnFNREpqTnVrQUdXQnFUNDJqNlNwcVNZek9VQWwxTUNoeng0NW5OMlMzQ09aQWlNS1lBcW92ai0wWWU0MXRsSEtzWlJRYkM2Vmo3Ti14Rk5DS1lISDVBajZzZ2VqUlVTQ2FOYW9n?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 12:44:49 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH·부천시, 청년 매입임대 월세 최대 20만원 지원 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWTRKQmVXYzhUYTlvQmc1dldDckdLLVppSU4wWHcwMWNkaW9NWFBHdF9WMlFMM0dmUnlWS2dnaDI5bFl6WnlDd1hLWHVtTXNWbkpOT09HQlBMT1Q5ZFIwcdIBeEFVX3lxTE93Z3JzX1J2WlVpSXBDRC1oME1qbDU1SDd4VXZNZlJsV3hPUnowS18wdmlkRHhpNFRtVFI5YU1PTjFjTWFvTHMxdV9GejhQWlItdHdnalcyYUZIZGd0ZTlqZHdxMjVHb0ZsZ3hXb2RiSXRMS0ZMT1VaMQ?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 09:09:23 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "“청년 월세 부담 덜어준다.”…부천시, LH와 손잡고 ‘청년 드림주택’ 추진 - 경기일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZHNVOXQ1Z2V1OTRUODdXZzJFM1dpT3hxNWhCaENxQkoyYVRZMDJvdzZMSkdEejZ5Vloxc0ZsVGFyUXVxX3BmX0djeHNqdXV1bEZQeEM4M3gwcms?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 08:55:43 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "부천시-LH, 청년 드림주택 임대료 월 20만원 지원 협약 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1amFCdE9xYnA5MVNHOWFyYldZWEN4aFg0dEpibnd4cEY3YzM0UUJFX1ktZFN3VXhlTkZuVXdydm0ydVZpQ1JSVUt0dXZacFF5bmFGcA?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 00:43:49 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "주거급여 못 받는 청년 88%… 부천시, 월세 부담 덜어준다 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FWUxNeGRfTHVPQl9OaW5tSmdkMmlEZnhZWkFuN3dmZFpmbGEtcUtCcDNKQjlELXJGVWMwX09DRDAtaENWdWMwTUFqZkhfUEJTSVl6ZDdac3EtYm9DaVdiSWVhNUhpVHplMnh0TzBrWQ?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 04:30:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH ‘화성동탄2 바랑골 느티공원’, 대한민국 조경대상 국무총리상 수상 - 경기일보",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zUElBRW5VWU4tRFhsd2xYNXNlUFhVOEVIbXMwWjNXYW11Z0s2ZGUwOXhtRVp5MXlQWWk4c2gxVE1TVk5PanlDRVVVOGxybTZjS3JsRDA3cnM4LWc?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 07:13:52 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "부천시·LH, 청년매입임대주택 임대료 지원 협약 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2RXFsTG1Uc3MzQ1dYalktYnU4RUtjb1lub2Y0R01laXByX3pTQ09XWVJNLXJzaDk0UFFycGlVdDdVQ0NHQ2FZUU5mUXcxamstUkNCeFlBa1RyTXF2cE5uWmFKMWNqckZjZ05wR19B?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 07:35:53 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 250년 느티나무 품은 동탄 바랑골 공원… 대한민국 조경대상 국무총리상 - 천지일보",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wN0loMWhYUkgtTkk1UU1RTGh5UVhqTWNHSzNTZW5FM3djald1aEFGZUV5ai1vc29VdmJ0REM3REFzSzNCSk1GdHloTnhKa3hUZUZSQTV5RDM4Zi1yZDA0NFdUVkg3a080OHc?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 06:57:47 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "[인사] 한국토지주택공사 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWktMVHF3emV0amptR3VxMkJRcm56cko0blN0LTdkT2x3M0pmdVVLVkhOZFNzOElfRGdDUmtiWGVRblprMFppTUkyQUIycGl4NmNra1M0T0FaU1dV?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 06:19:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "‘LH 조성’ 화성동탄 바랑골 느티공원, 지역 역사 보존해 국무총리상 영예 - 중부일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUjY5OGdkYmV1MDhlbjlyTENqSUZBLVV6bFRjTHVNejRaNnFJaEREUFZ2Q2dHc0RNdFZuSzVPTF9ZQTk0cjhxNjZUX2pNYVNYV0dfaWFQVFhRdUhtV1JsbEJBUnBmalcyNzRFcl9xUQ?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 08:23:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "구리토평2지구, 토지 소유자·주민 경남 진주 LH 앞에서 대규모 집회 - 기호일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96MG5JWUgxb2kzUFc4V0gxc1RNeFdUQmF2NGRQZUdEa25WQ2ptcmViYmlmZmk2OE5WUGIxWGttaE03VXVZQ3J1QjFxUFZzcjA0WHJtLXdoeU9PRFhBVmVMVzNnQjZMWFc5OXhucUNEVQ?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 06:41:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 레미콘 품질 실시간 추적…3기 신도시 전면 도입 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zYmI5MlRrRnktZGh5ejA2X2dTNXhpWllkTGx1alBKMWJvTk5MMTlXeEN5YkJGMDlMQlNNMmV3T3NnN1J1WjZZdDFkVl83aGZObjZTLVlXUmNPcFpmVmx6Y9IBeEFVX3lxTFBEZXkxSURsX1ZRbmdWNC0teG5wcDVIQ0NSX3lZQ0g3czVwOEpFYlY1T28zTVViVVB4cnk5c251bzducFlpMV9sVUUyaHZEU1p1N01ocERNSjJZdlpUWW9MNTE3STFMeG5xN250cTlldFk2LTR2SnFIQg?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 00:32:51 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 울산효문공단 내 지원시설용지 21필지 공급… 20일부터 선착순 계약 - 부산일보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qOG5sTktaNEVzcnZzSjA0cG9KZG1oemxxdmEzZFl2QU1SdFl1RTBkWl9UV2FZaHNuNnlzcHFVc0tmNmpveFhSWkVlYzdTNDcwM1MtSENTRTFjYnlGRmdXZ1NxcEFaRmJqa1Y5YXVHYkE3S09X?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 06:25:54 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 3기 신도시에 레미콘 스마트 관리시스템 ‘LH 레미온’ 도입 - 기호일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MWUZYSmpqcXpiVDh0X2hLbjJScmY0SFRBQ2dXZGNWVkRzTEhJVElZRms2ZFloTExTWUs4U1pCNm5XNE15TmdwODBLalVxX1BFMkhaMTNlV1AybUphX3dqV3hESkM3Q3gxMkxuRWFfRQ?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 00:43:47 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 남양주왕숙·고양창릉 등 공공주택 9000가구 민참사업 공모 - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xUlhFSDhueFFoZ1hxOEowSmQ2ZUlERTNlcktDOVJMaUdGRlVWR1U5OExsWjBsN1hGMjZuZ3dRNjNybzNKSjVvT2RXc0ZnNnNhNmtvV09naEZiZ3JndEZ1eTVKSjJOSzVVUUoxN2gtRFRfTUk?oc=5",
+            "snippet": "발행일시: Mon, 16 Nov 2026 00:14:50 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 3기 신도시 레미콘 '공장∼타설' 전 과정 실시간 추적 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02OUhZSWg1SzNZc2hCaVd2b3I4NkRhYVZBWjFKaGtRT05FcXVfMnZleVlmTThZMEhRMGJ2XzJZcHRMNWdPTUZ6V19XbWtlTDE1VmpOVGlpZy1kdw?oc=5",
-            "snippet": "발행일시: Tue, 17 Nov 2026 00:09:09 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "[단독] LH 유지보수업체 “기성 청구 50~70%만”…공사비 빌려 현장 버텨 - 경기신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CQy11OHB6d0RIdGprSWxXUTFzQXlvNmRGQzlFV1dUUV9sZk5uRVRoM0l2dXA2VlN0QjFfYk83ai1QQ2NqdUFnVkIzOXFyYlF5TnFiR0E2TmgyYXN1VUk1VnNB?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 06:48:15 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH 사옥 창업카페 도약대…청년 꿈 날갯짓 - 인천일보",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByb3hMaVlZdmNUNmR1Qkd4VDlDOExJQndqczI0SFFURkJ4dllLdWQ5SEZTUi00ZC1faW50QnVWdF9QRERGOVBFcEp3aVpzeWVLQldHeXd5dkJfTXQzdi0wcDBwTG9lc3p2dkktR2ZaY3g?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 10:16:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 2026년 대한민국 조경대상 국무총리상 수상 - 한국주택경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBZFhrR3pYZF9mM1VuT1BKU3BtRDdGZGxxNHhySk53N0pNdk85NWE1eTRlY3FUVmZBUjJyeFc5THVTdkZjYkZWR3pYMFR0ZVZtUlU0SVZVN2RoUzEwSWt3R1RzMkJUSlBh?oc=5",
+            "snippet": "발행일시: Tue, 17 Nov 2026 08:00:12 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "[단독] LH 부채 1년 새 20조 늘어 185.7조…공공주택 확대 재원은 [부동산360] - 헤럴드경제",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3OXQ0S1RKTkM2SUpycjlPd3I5WUVrZDRBWnVoOWRnVVhaQ1BETUVvbTdLcThfU1k1SG9sOU1MY3BCRHF1Q1ZldjUwcWxSWGdCMU41d0t3?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 01:30:09 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 서초양재 가로주택정비 착공…연내 4곳, 2030년까지 1만1000호 추진 - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tX0dib3I1d1hrbkRueWVBU25pbVYtSEtudlBXaWljQVBPRzdXRTczZWlGU1dQblg2QnpsMlg4OHZPSUo0M2tBcFJtRWxxRDJyeEhzMHBfd3FCY1dDUnpMMWJpdDI?oc=5",
+            "snippet": "발행일시: Wed, 18 Nov 2026 02:10:32 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH “도심복합사업 지연, 우리 탓 아닌 서울시 사전절차 때문” - 마켓인",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teFZNVnV0cXFWeXF2dkMzWDY4bVFOdlZIYXZnZjJtM29rMTZ6cDF5VXhZZjF2Wnl0UGFLbWZPcGUzeVNXNHdXbGFBYzJmTDZ5UHRiMHFRN3RDaXJ5MURxekxBbm5rMzd5UGpkVGRkX28za0U?oc=5",
-            "snippet": "발행일시: Sun, 15 Nov 2026 04:14:11 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "서초양재 첫 삽…LH, 서울 가로주택 1만 1000호가구 추진 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZR3d4OWZrSDlvOVF3MDAwSXl3SndrNFRubnExVXRib0Nkb0FXeVRJdkVHa1RORWxIcTRxdS16NWVLaURLNDZFdzZOVWY0R3d5X2fSAVNBVV95cUxPWG50UHlRRDRtVm9MMHJvdFZQRXA5NHJ4Ym9LeXlCVXZIV3NIZU03SEUxRmtXRld4bWhsLVlsQmtIME53Z2Y3Tkw2b01OU3pwODRuYw?oc=5",
+            "snippet": "발행일시: Wed, 18 Nov 2026 01:36:42 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "공정위 또 무리했나…손보사, LH 입찰담합 최종 승소 - 서울경제",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XZWJ6RS1pUWVNc3VISXNOaG4yeEhLc045OGt1TXUwNUJOVXdmLXpLR040Yl9mR3JReGdWSWk2eGZuWWhGWW9sQi1iZ244S3dMZ0HSAVNBVV95cUxQLUhSR0ZRa21OY1RkUk9aMXRpN01PM2N5bEZQOHZKZ3Q2VVk2dnJJbXVnMXNVandXNnl5YjBGTDFYY292T3lkdU9BVGt0MVEwd0xfMA?oc=5",
-            "snippet": "발행일시: Mon, 16 Nov 2026 09:07:18 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 서초양재 가로주택 정비 착공…연내 3곳 더 목표 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXBnLTR3Tkk3SGxDd0hTUS1ycHo1T01MUDlzeUhpUGlpcTBfNjhxdGJxSDFmWVlxYWxZZHp3cW50ZGE4NmxPQVVCNzlkRkxZZzhFbkZfbnphb3l6UGo3LXNCUjZ6ZnNCZ0d3MllEcGRDQkM0ZldGVGRSVEtZeTVnaQ?oc=5",
+            "snippet": "발행일시: Wed, 18 Nov 2026 01:26:10 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
     "raw_news_count": 35
