@@ -1,143 +1,143 @@
 {
-    "update_time": "2026-11-22 09:00",
-    "summary": "오늘 오전 09:00 기준 총 20건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
+    "update_time": "2026-11-23 09:00",
+    "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금일 보도 기회]</b> 소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
         "<b>[금융·사업 기회]</b> LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> 임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
         "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 주택공급 속도전…공사 발주부터 착공까지 67일 줄인다 - www.ebn.co.kr</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>한국토지주택공사(LH), 모듈러주택 기술·제도적 난제 해소 나서 - 국토일보</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH, 모듈러로 생태계 구축 위한 토론회…기술혁신으로 주택공급 활로 찾는다 - 위키리크스한국</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH 창사 첫 총파업 위기… 철도노조, 23일부터 준법투쟁 - 세계일보</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
         "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
         "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
         "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
         "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 20건의 보도(<b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
         "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: 소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
         "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
         "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH, 모듈러로 생태계 구축 위한 토론회…기술혁신으로 주택공급 활로 찾는다 - 위키리크스한국</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH, 모듈러로 생태계 구축 위한 토론회…기술혁신으로 주택공급 활로 찾는다 - 위키리크스한국</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH 창사 첫 총파업 위기… 철도노조, 23일부터 준법투쟁 - 세계일보</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH 창사 첫 총파업 위기… 철도노조, 23일부터 준법투쟁 - 세계일보</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "asis": "<b>[금일 포착된 현안]</b> 임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
         "tobe": "<b>[금일 도출된 해법]</b> LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보'</b> 및 <b>'LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "comment": "오늘 보도된 <b>'소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보'</b> 및 <b>'LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
-        "#주택공급",
         "#공급",
-        "#속도",
+        "#주택공급",
         "#모듈러주택",
-        "#주택",
+        "#착공",
+        "#발주부터",
         "#착공까지",
-        "#착공"
+        "#절차"
     ],
     "news_items": [
         {
+            "title": "소래IC 사업비 협의 '삐걱'…빠듯해진 2028년 착공 - 인천일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kc2xWRFUxMkwyWnlxN1NTQnkzNTNYckdFUmVqcWVKUS1xMmNBcFZYZEp6Y3pUMlVKbXV1NldSZ0VJVzlydWhzMDMtUVZESXh3VEVnYlJxR1B6RnVvNjhkeEFna1hZOG9sbzZSbnlBRnM?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 09:07:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "일상 속 자리잡은 정원…LH, ‘아시아 도시경관상’ 영예 - 중부일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdnFMWWMxSmU4TDkzNHYxUVQ2cGp3Mk13UlotUDRkQnNZOUdHMkhHaGRhcy1pdm12MDB6ZWNWSV9WNzVhUnA2TDYxOUZpSHNaUGdNekd1VDdpUkZzaDhvTUNhSEF5V0VXcDN6Z2lmaw?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 07:15:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 착공 절차 단축 나섰지만…인력난·노사갈등에 공급 실행력 시험대 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yM2NCdzdycThnaXZKU0o3bGVTQVBwR29oQ01vOVlzR1Q0TGpqbkFJRElFWTllTmlnb1pWdkZid1ZzMnhfVC0xbXNtQkVPX0VsdzNzTg?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 06:50:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "임대료 못내는 입주민 계속 늘어…LH 공공임대 체납 가구 18만 육박 [부동산360] - 헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeS12b184WVppX0l1eDZfYlZhc0haSDlQREluaU5pcm16YmZlSHhyczc4bkRiZTN3NWx4OGRxd0NLb0c0UWRlcDh3QmQtd2NTcDJkRzBB?oc=5",
+            "snippet": "발행일시: Fri, 20 Nov 2026 07:33:42 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
             "title": "LH, 300억원 이상 건설공사 착공 기간 67일 단축… 주택 신속공급 속도 - 천지일보",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rYndQb29GZFFta3VrZEVuXzFnT2Q0N09TaVlCT3JScUlZZnNMSUN3c3RfOVhYWXY2WEJQd1pmb1JmaTItX3lONmFXb1JxdDR2aGdGZ09lT3kwLUZHOE1iOU56TW9QcHVSVGc?oc=5",
-            "snippet": "발행일시: Sat, 21 Nov 2026 10:35:04 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 주택공급 속도전…공사 발주~착공 기간 130일→63일로 축소 - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LSkZBQmFoYURKaGJEdXNSWjdmb1lyenNWSjVvYzIwUEd5LWRTQlR5NkpuWnJfS3hWTVpzbE1BVGxTMDNtYXExbmdxS2xhbjdndGlKT1RpMUc?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 00:46:00 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 주택공급 속도전…공사 발주부터 착공까지 67일 줄인다 - www.ebn.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nLVdvaWo0OVBBQVl5LUdWdVdfTXdXVUFDVUJXTmRyUFJ3a0ZMVHo5VWlfRVZzbDZ1ZmdiSFotZHZjZHZEd0V1X3k0VzByS2xScnhtaVNkeTBuZm1idEN2cm9EeHFXOTdT?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 11:36:03 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "snippet": "발행일시: Sat, 21 Nov 2026 10:35:04 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "LH, 모듈러주택 공급 확대·공사비 절감 방안 논의 - 전기신문",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOW8zc1JveURfdDN1Slc5c3dVQzhWb3VxLVMxUDRzYmxoa1BKNE5NQ3FMMXoxNjBaYXd2M3NFQThoSmpNZEV2MG1UZ3hoYk44NTJ3RThTM2VYZkRhdWIyOHFwNVpvSDRpeXJ2WNIBcEFVX3lxTE5KRk1CWlpNY0t0NFRneEQ0S2c5NUhpUl9PQUdkaWJSX1U5TnJjelRCNVJmcW1FbUZRazRCWkl1NlFOSTNCSS0yUjNMOFYyX2FIMkg1ai05WF9rLWlmZU56aWNWR1lvVFpQRGFtbUFicnI?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 06:09:18 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "snippet": "발행일시: Fri, 20 Nov 2026 06:09:18 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 주택공급 속도 높인다 … 공사 발주·계약 절차 대폭 간소화 - 뉴데일리 경제",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWeC1YM2NGaGZ6LWpfTDJBRXpNcVpNSVpJaVJWeFRJdDlQemVqLVNmRkpQOVRBeU45TzZXS055UUNaeW1BVXYtdTVnSS1CMkpYU0Q1SElvR0Q3dnNZT1FuVG8wMHNoUUFFYzRvbm5ic044MHhsUEY3eTNrONIBgAFBVV95cUxOaVQ3em9JZDJRQXV0VFZTdnNLUFNtblQtX2pwVzQ0U29QSGsyaWlRMWZvMlh6SE1yX2Y2dGVqNHBqUm5tR0pVNUJNaHZSTUxHejFGTEdYYWhiOEY1SEpoRmVuTGJESW5zTUdUY01sWVRnYkQ3bTVFSGFucUlUeHAwbw?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 05:18:00 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 주택공급 속도전 돌입… 공사 착공까지 최대 67일 앞당긴다 - Korea IT Times",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yU3l4Q0NwR1hFYTNSN29ZZ0RqeTNTRzc0a2hfdnUtMDhWVk1wRFhrUGtUZG92cHRvNWJqTERqX2pBcUdwYml3UVNDblBDU1JYOG5xVFNVaHBGY3NvdS1FX1JQYm5FR3VGRENTZW1YWks?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 02:38:09 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH 충북지역본부, 음성·제천에 공공임대주택 342호 공급 - 충청일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0QVZDMm5lVHYtdl9fczIxMTJ3X1VmMlRUQjRESndCSTdaLWxzZE95VjB4S0pFM2twblUwV2tlVHpsa1lkM1FSdU1jNlppYWo0T3AxT19jMF9lYVpOUS1IOUFBWC1UTF9qbjlJSE1tcVA?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 08:45:32 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "정부 주택공급 최전선에 나선 'LH'…발주·계약 손질해 착공 앞당긴다 - 글로벌이코노믹",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclVOSWYwcTRmM1FNc1hRSHl6cW0tZlhRWXpDbU9sREdXWVJpNmpqalgyQ2RaWU9ZRjE1MEVaQm56QTFQRmxONm05RldOSmdzNTN5RTZicTc0QmR4UzdGYXFXS2VUOE1FM2JLSGY1V3ZidVMxZ25WenBKZnBHMXB0bmtzZW82ZVlKRHc?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 21:00:00 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "snippet": "발행일시: Fri, 20 Nov 2026 21:00:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 발주부터 착공까지 기간 줄인다…\"신속한 공급 기대\" - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kSjhBYkVlQkw5bkJTdTdVTFpCalNuRy02dmtTZHBnLW1yUGdWT0NKbkQ5aUNQeVB3clY2bTRZYkJYWUhMUVU2dmx5b2F5YnJQTERSck5KQXlQODNqTnZGOTRmbVpxTEk?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 01:38:00 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH 창사 첫 총파업 위기… 철도노조, 23일부터 준법투쟁 - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PTlJGQ1FEQzlldTNsOE5RNHNZdFg4YjdkNko3a1d3eWNVM0txS2JYbHlCbDQwNzJ0MWdFbDhMR05ibHNiVTFhck9sQXlRVFJSejdXakNBdE7SAVRBVV95cUxQZXV4aDdlcEdTYk93YTNrZVhEQUNUY1M4cjNsbW9TWERMeUZNdE45YTg1OXdwS19iVEVXdnRsczRrV1hEYW90UHJpbXJjTERnQXdzSkg?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 06:43:18 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "63일 만에 발주부터 착공까지…LH, 주택공급 절차 단축 - 신아일보",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRSTZMQmxoWmp6UE03M0tmRDloMENjazdKZ2Rpa3ZHSmRKTkhTNjZHREF2dkhSNVNQR2ZZVElibWRpZE03QlV0U25OLUdhZ3kycmR3d1phbENXb1NxQWhBMzB3ODRER1VCWTg3dGo2YTY?oc=5",
-            "snippet": "발행일시: Thu, 19 Nov 2026 08:09:39 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "[도시정비시장 풍향계] LH, 서울 도심복합사업 8곳 사전기획 협의 재개 - 대한경제",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BZWpLZFM1S3ZRc2hJTmZIM0tQeHVQUkpkZHFkS1BWbmk2R2NQUXJDdjBablZuSm5KOFRuRFA4U0xMLUxFSVMtbHJFdTA3bWg4TzZUdUxDUE5zUnhGeTRrQnlPRkJLN0pfdHhCRkRTUG9HQnM?oc=5",
+            "snippet": "발행일시: Fri, 20 Nov 2026 03:14:50 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH 모듈러주택 공사비 낮추고 발주 늘리기로, 이성훈 \"주택 신속 공급 역할 커\" - 비즈니스포스트",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnOGRORVVYcTN6OUNPc3h0Sm5nRFp5MHRJZ2JKcDdDS21tSENWZjhONmN3VEQwclozUVpCR1V4amg5eEFKWTRzZTdvSHdValZkb0t2eWZZeGZYenFZMzYyRFhSN2haMnl1RGIxT3N3ODRKbE0?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 01:40:56 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 광명시흥·용인산단에 2조원 추가 투입 - 대한건설기계신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QdjRNc0pVMTFTVVBqVVB3X0VoZV9PUVRUNWFsNXlJX2FmTlB0NXJYLUQ3d1VNRXlYdWs2N3E4eUdINVQxUUVNb3NLUjFyanJnUmJxbmVaM0dXSGN3aGt4b1dIbXRyOWNC?oc=5",
+            "snippet": "발행일시: Mon, 23 Nov 2026 00:28:16 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 모듈러로 생태계 구축 위한 토론회…기술혁신으로 주택공급 활로 찾는다 - 위키리크스한국",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Mb1phMHhrX1lMcU04Yk5qQWtQZ3FsSEgyOUdvWVNlek8wcWdMZ1A0bWVUdFZQRFc2eDlMalFPSXhaakRJUDVfSW1JeDh2WTJpQTVvUVFJeGRYbFBDQlhMRGQzSVFXUjNMY1llQ1RmMnA?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 06:04:31 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "한국토지주택공사 대구경북지역본부, 청소년 대상 금융교육 실시 - 경상투데이",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVUdyX2ZGeUw0S1BiQ2tDTHJtem5mSjNDSGxzcjl6aFB5dWx5ZEJtWlJtcy1NMTVPNnFEMS1VM1BLV01VWTJ5b3hWY01Hem85czY2YWVyay1PMGF6cFJBYW9YMDNLTzA?oc=5",
+            "snippet": "발행일시: Sun, 22 Nov 2026 09:17:04 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "“주택 공급 앞당기자”…LH 모듈러주택 생태계 구축 토론회 - 퍼블릭타임스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02LVlzRVVta2tYZ3FKTTk0VHYyV1BoblpBMWhKLUU5NVVGblo3bTBMa1BXaXpZRF9IZW1jM0tXTEtMeXI0blBlUlViNzlhYmRzRmlIUXg0ODB4WHVQaGxlSnZHVHR3NG5QclHSAW5BVV95cUxPVUNoekd1REFvN0tOZUdCRkdqUXFNemFFdzNVcm85bXJzQ2lKcmVpYzhtZUNyc25TbnZTc05qVTU3WHlMRnYxSGJNQjQydW9pMU1uM1h1STRuU1FobmhTbFp6UzdqRzNReW1WaXBqQQ?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 04:58:37 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "[아유경제_부동산] LH, 2030년까지 모듈러주택 1만8000가구 발주… 공사비 절감 추진 - 아유경제",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GcEJINFR2U0pmcWRJRTdoWVFFa2ZTQzIyUXUtQUVFeDZFLV9NYktsWmlXZ2ttZDdKSEFfTzFVbmJqa09wWXMzckUzdFA1Ynp1Sm91R2VvWWNLNlh1WVpJb08xanpKYmJi?oc=5",
+            "snippet": "발행일시: Mon, 23 Nov 2026 03:25:40 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 서울 도심 주택공급 속도…2030년까지 1만1000가구 착공 - 아이뉴스24",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tSXJUbHo3NzBLd2w0alcwVHRCc0tuclpHT09UTEFJYWwwdGZKcVRKcnJpWlN6YzZCdTVma2VFeV8zZFpuVjNMMDE5TQ?oc=5",
-            "snippet": "발행일시: Wed, 18 Nov 2026 05:20:17 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "“임대주택 더” 청년 요구에…LH 사장 “서울 매입임대 2만가구 공급” - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmJvTDlUaTE1SGktYnh0bG9QRHpkMHFvM3ZQQU40ME1lbzAwRVNRZ0VPMFQ3WW8zb19TVXNuNG95QTVkV00yNnRUSHE0cFJoLW5UNEE0ZDB6eUIyZ1VqLTNWeFd2dmlKRmVUaEhCeWZJdi1ITUt3a3pIZ2lSQVVZUQ?oc=5",
+            "snippet": "발행일시: Thu, 05 Nov 2026 08:00:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH에 시세차익 안 나눠도 된다…'왕숙 한신더휴 센텀' 분양 - 땅집고",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBudkpVQW02Ni1DWDJRQXlWanhUOFhBUUE1NkJ3Nm1VZ2xfdnNkXzU0bW9EZmhYcl9VeVRhT3hRNDZyQVNUbzNlX2tncktVVG1KWEJJZDJNVjA5am9OYVo3UzcyVHAzd1BUVHZqWHA3VlYtb2xoTUhMWk5SMERuWGM?oc=5",
-            "snippet": "발행일시: Fri, 20 Nov 2026 05:06:55 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH 참여 가로주택사업, 양재서 '첫 삽' - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xeFE3Y3BXQmhscHd5dFJKYmhaSzhpSWI1dDc2MlhWVmlGZzBEUkc4UE05RUJVMzVtRnMtV3hMRk1oLTRwaEVUYzM4YS1oSEZSRXRiQW51LXBfUQ?oc=5",
-            "snippet": "발행일시: Wed, 18 Nov 2026 08:06:17 GMT | 키워드 [LH 주택공급] 관련 실시간 주요 언론 보도입니다."
+            "title": "한국토지주택공사, ‘LH GARDEN’으로 2026 아시아도시경관상 ‘최고상’수상 - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3RG03RkpkeHotbTh3V0VOVk9pYVlYNXlYWW0yUkRPR3NNdVR4WDk0NmtNWHRiVkRPWnZxQzgyY0ZTLW9uR1MzY21OR2ViU1dnTTVSdUwwU2JCM0pMSXFIVk53WDg?oc=5",
+            "snippet": "발행일시: Fri, 20 Nov 2026 07:17:34 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
-    "raw_news_count": 20
+    "raw_news_count": 35
 }
