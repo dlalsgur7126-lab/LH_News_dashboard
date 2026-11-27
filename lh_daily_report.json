@@ -1,132 +1,122 @@
 {
-    "update_time": "2026-11-26 09:00",
+    "update_time": "2026-11-27 09:00",
     "summary": "오늘 오전 09:00 기준 총 35건의 방대한 LH 관련 최신 언론 보도를 심층 마이닝하여 8대 전략 분석 프레임워크 전체에 자동 반영했습니다.",
     "opportunities": [
-        "<b>[금일 보도 기회]</b> LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
-        "<b>[금융·사업 기회]</b> 李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제 통한 민간 건설사 참여 유인 및 공급 속도 제고",
+        "<b>[금일 보도 기회]</b> LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스 등 핵심 주택공급 및 브랜드 고급화 정책 가시화",
+        "<b>[금융·사업 기회]</b> 대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송 통한 민간 건설사 참여 유인 및 공급 속도 제고",
         "<b>[기존 핵심 기회]</b> '9·7 주택공급 확대방안' 직접시행 전환 및 베트남 스마트시티 수출 본격화"
     ],
     "threats": [
-        "<b>[현안·갈등 요인]</b> 성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
+        "<b>[현안·갈등 요인]</b> 한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운 등 지자체·지역주민 요구사항 급증에 따른 사업 조율 부담",
         "<b>[재무 건전성 압박]</b> 부채 173.7조 원(230.8%) 돌파 및 2030년 372.8조 원 전망에 따른 재정 부담",
         "<b>[조직·원가 리스크]</b> '9·3 기능개혁안' 노사 갈등 및 원자재가 상승에 따른 공사비 증액 압박"
     ],
     "pest": {
-        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
-        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
-        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
-        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 중기부 장관상 수상…중소기업 기술 개발·해외 진출 지원 - 뉴스1</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
+        "p": "<span class='px-2 py-0.5 bg-blue-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b> 관련 정부·지자체 주택공급 정책 기조 및 공공성 강화 요구 반영",
+        "e": "<span class='px-2 py-0.5 bg-emerald-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b> 등 부동산 PF·금리 여건 변화에 대응한 금융지원 및 사업비 조달 이슈 부각",
+        "s": "<span class='px-2 py-0.5 bg-orange-500 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운</b> 등 입주민·지역사회의 정주여건 개선 및 공공주택 이미지 쇄신 요구 증대",
+        "t": "<span class='px-2 py-0.5 bg-purple-600 text-white text-xs font-bold rounded mr-1.5'>금일 이슈</span> <b>LH, 중소기업 신기술 지원 성과 인정…규제혁신 대상 장관상 - 뉴스핌</b> 연계 스마트 시공·안전관리 및 디지털 청약 플랫폼 활용성 지속 확대"
     },
     "swot": {
-        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
-        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH, ‘대한민국 규제혁신 대상’서 중기부 장관상 수상 - 브릿지경제</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
-        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
-        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
+        "s": "<span class='text-blue-600 font-bold'>[실시간 강점]</span> <b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b> 보도에서 확인되듯 대규모 공공택지·신도시를 주도하는 독점적 사업 실행력",
+        "w": "<span class='text-red-600 font-bold'>[실시간 약점]</span> <b>LH, 규제혁신 대상 중소벤처기업부 장관상 수상 - 매일경제 마켓</b> 관련 대규모 정책사업 추진에 따른 선투자 부채 누적 및 조직 통제 부담",
+        "o": "<span class='text-emerald-600 font-bold'>[실시간 기회]</span> <b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b> 등 유관기관(HUG·지자체) 협력을 통한 민간참여 활성화 및 공급 확대 여건 조성",
+        "t": "<span class='text-orange-600 font-bold'>[실시간 위협]</span> <b>한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운</b> 등 지자체별 10여 개 이상의 복합 현안 건의와 보상·인허가 지연 리스크"
     },
     "forces": {
-        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
-        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
-        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b>)이 핵심 주거 대안으로 부상.",
-        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
-        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
+        "rivalry": "<span class='text-blue-700 font-bold'>[금일 동향 반영]</span> <b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b> 사례처럼 공공단지 명칭 변경 및 고급화를 통해 민간 브랜드 아파트와의 경쟁력 격차 축소 추진 중.",
+        "entrants": "<span class='text-emerald-700 font-bold'>[금일 동향 반영]</span> <b>한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운</b> 등 대규모 신규 택지개발은 법적 수용권과 막대한 자본이 필수적이어서 민간 신규 진입은 여전히 불가능.",
+        "substitutes": "<span class='text-purple-700 font-bold'>[금일 동향 반영]</span> 민간 정비사업 위축 속에 3기 신도시 및 민간참여 공공주택(<b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b>)이 핵심 주거 대안으로 부상.",
+        "buyers": "<span class='text-red-700 font-bold'>[금일 동향 반영]</span> <b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b> 등 입주민들의 단지 네이밍·품질 향상 요구가 직접 반영될 만큼 수요자(국민·지자체) 교섭력이 극대화됨.",
+        "suppliers": "<span class='text-orange-700 font-bold'>[금일 동향 반영]</span> <b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b> 등 민간 건설사의 자금조달(저리 대출 보증)을 지원하며 시공사 참여를 유도해야 하는 상황."
     },
     "stakeholder": {
-        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b>) 및 주택공급 목표 달성 독려 지속.",
-        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
-        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
-        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
+        "gov": "<span class='text-red-700 font-bold'>[금일 뉴스 연동]</span> 국토부·HUG 등 유관기관과의 정책 공조(<b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b>) 및 주택공급 목표 달성 독려 지속.",
+        "public": "<span class='text-blue-700 font-bold'>[금일 뉴스 연동]</span> 입주예정자 및 지자체(<b>한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운</b>)의 광역교통·택지개발 현안 건의가 집중되며 밀착 소통 요구 증대.",
+        "media": "<span class='text-gray-800 font-bold'>[금일 뉴스 연동]</span> 오늘 수집된 35건의 보도(<b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b> 등)를 통해 사업 추진 속도 및 공공성 이행 여부를 상시 모니터링 중.",
+        "partner": "<span class='text-orange-800 font-bold'>[금일 뉴스 연동]</span> 민간참여 공공주택 금융지원(<b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b>)에 따른 중견·대형 건설사의 사업 참여 관심도 제고."
     },
     "seven_s": {
-        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
-        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
-        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
-        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
-        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH, ‘대한민국 규제혁신 대상’서 중기부 장관상 수상 - 브릿지경제</b>) 조율을 위한 현장 전문인력 역량 집중.",
-        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH, ‘대한민국 규제혁신 대상’서 중기부 장관상 수상 - 브릿지경제</b>)하는 현장·소통 중심 리더십 발휘.",
-        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
+        "shared": "<span class='text-yellow-300 font-bold'>[금일 이슈: LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스]</span> 기존의 획일적 '공공임대' 이미지를 탈피하고 입주민 자부심을 높이는 수요자 중심 주거가치 재정립.",
+        "strategy": "<span class='text-red-600 font-bold'>[금일 전략 동향]</span> <b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b> 등 금융·보증 연계를 통한 민간참여 공공주택 공급 가속화 전략 가동.",
+        "structure": "<span class='text-orange-600 font-bold'>[금일 조직 동향]</span> <b>한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운</b> 등 지역별 현안 해결을 위해 지자체-지역본부 간 실무 협의체 및 본부장 책임경영 강화.",
+        "systems": "<span class='text-yellow-600 font-bold'>[금일 시스템 동향]</span> HUG 보증 연계 저리 대출 시스템(<b>대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송</b>) 및 디지털 기반 사업관리 프로세스 고도화.",
+        "staff": "<span class='text-green-600 font-bold'>[금일 인력 동향]</span> 신도시 입주 지원 및 지자체 복합 현안(<b>LH, 규제혁신 대상 중소벤처기업부 장관상 수상 - 매일경제 마켓</b>) 조율을 위한 현장 전문인력 역량 집중.",
+        "style": "<span class='text-blue-600 font-bold'>[금일 문화 동향]</span> 기관장 및 경영진이 지자체장과 직접 만나 현안을 논의(<b>LH, 규제혁신 대상 중소벤처기업부 장관상 수상 - 매일경제 마켓</b>)하는 현장·소통 중심 리더십 발휘.",
+        "skills": "<span class='text-purple-600 font-bold'>[금일 핵심 역량]</span> 3기 신도시 최초 입주 단지 준공(<b>LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스</b>) 및 대규모 복합 금융·택지 개발을 완수하는 종합 사업관리 역량."
     },
     "vrio": {
-        "asis": "<b>[금일 포착된 현안]</b> 성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
-        "tobe": "<b>[금일 도출된 해법]</b> 李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
-        "comment": "오늘 보도된 <b>'LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트'</b> 및 <b>'李 “재정 부족해 공적주택 공급 못하는 일 없게”…‘200조 부채’ LH 재원 조달이 관건 - 서울경제'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
+        "asis": "<b>[금일 포착된 현안]</b> 한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운 등 지자체별 산적한 현안 요구 및 민간 건설사 자금난에 따른 공급 지연 우려",
+        "tobe": "<b>[금일 도출된 해법]</b> 대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송 등 정책금융 연계 지원 및 지자체장 직접 협의를 통한 사업 속도전 전개",
+        "comment": "오늘 보도된 <b>'LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스'</b> 및 <b>'대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송'</b> 이슈를 VRIO 관점에서 진단한 결과, LH의 <b>'정책금융 연계력'</b>과 <b>'3기 신도시 택지개발 실행력'</b>은 민간이 모방할 수 없는 <b>지속적 경쟁우위(O·O·O·O)</b> 자원임이 재확인되었습니다."
     },
     "keywords": [
         "#한국토지주택공사",
         "#3기신도시",
         "#공공주택_공급",
-        "#확대",
-        "#성남시",
-        "#주택공급",
-        "#장관상",
+        "#임대주택",
         "#공급",
-        "#서현동",
-        "#반대"
+        "#사할린",
+        "#동포",
+        "#영주귀국",
+        "#공공주택",
+        "#140세대에"
     ],
     "news_items": [
         {
-            "title": "LH, ‘대한민국 규제혁신 대상’서 중기부 장관상 수상 - 브릿지경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTeXk5S19jUHFDUzlzSGN1Y1RrV1BsanZURkJOM0ZLQUZZZkVJZVAyVjA2cUZxWXQweHNYYVd4RjBoTzRheFh4eXNqRTJHMXJLOUxsZGhPZW1yZw?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 03:53:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH, 영주귀국 사할린 동포 140세대에 임대주택 공급 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHdHZJQTdpYUxJWHZEaGJoMWNQelFuWEc3RzVBZzUyeGtDbU80UTZibE9tT01qa2JUSkY4Y29qUFRoRUdrdkNsQ0tjeU5fbkxNRFYyQXNzZmwxMVlhTDFoctIBeEFVX3lxTE9rODRpZU5GVFFqbkkxUGhfamh3TGZpZ0hTc1RwZHFad21ETHVCUVYzdTlLYnNENGdRN2VYZEZiMHVYRWx5QlJXNkMyNUlsX1NXT3RVVTFGVjhWTEZXRVdlTEZPQ1kzMlJDdDdlVktUMFA3ak01My1aZw?oc=5",
+            "snippet": "발행일시: Fri, 27 Nov 2026 01:26:42 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "대한건설협회, LH 170조 원 공공주택 발주계획 환영 - BBS불교방송",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PdHZUbzhwQW5uSWlWbzIwR3h3bnBsUGg3RkxDaGh3OE9pamg0WVZjVkQwdFBQdUgtQUFHVXZXTDdzcHdXeVVtck92OVBQZ1U5TGtiMmNORTFkQTNOOTBQVUxXX1N6R2FjOGRn?oc=5",
+            "snippet": "발행일시: Fri, 27 Nov 2026 05:04:15 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "한국토지주택공사, 임대주택 과학방 ‘500회 이상’ 문 연다 - 뉴스타운",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CZFZoQ2FSb3ZhZlR3MjFSa2FhbzRZRUttbWVuQnJ2cnJkUTNiaXJBZVMwa1RuXzU1WVhnSVd4RGRpM1VYclNKSnpmQU9MYklyVTBHcWhRSGlJUVpKWGE1bklqV2tEa09pbGFVYjNR?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 14:07:55 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "공공임대 공동시설이 과학배움터로… LH, ‘우리동네 과학방’ 운영 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGg1ZjJxMS1rNkZFODItRGRoVlBCQkdiYWI2VWZUX29jMk54a3NKd1FUMktYaWxuaGtabmtaQXVaQ19Ob0d2UEJIRGwyMVNaczZkdFRjcWV4N2RvTjVMQkRWTjh1emJMQjhWOWtfYkx2QXBGY0VvWHZGWGhCdFZRa1kwdFpiSl9URmNNQWJ5djQtLWE2TlVGRtIBrAFBVV95cUxOcUlFdWJGcE5jNGhLc1lyOVhqbUVGSmFQNkUzWDktT2tnakxpblhUNkhPeWd0aFVISGU3Yy0zcTJ1UTd6bjh1aDNFZVlyUUZfZlNvMEFoaEkzd0VQRm1xU01OMjFYdFl0YW03cFhvRFpDQmxsSWxLTURacHZBenJjQkl6cDhtdmxFRUt4WUh6QXdreHJFbS1JOHVWa3BJQnA1akhiMk5wX1Rscnd4?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 07:47:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 한국과학창의재단과 '우리동네 과학방' 추진…27년부터 500회 이상 운영 - 국제뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mRVBlOGxicU1WU29BejFOUDYzeWJQRDFTUzVENDBETDdzTWw0S1QxWlZjSE15cnVSdkJ6aUFyR3JGZmpwSUdfYU1WcFVsdHlTXy02MzF3aXhWaTItWHpSQzB6bjlaZkFKX3pLeUNR?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 14:23:46 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 규제혁신 대상 중소벤처기업부 장관상 수상 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KMUVHMXZKNGU4eWR6Z3ZIVXFMQ0VSQXBiY1Ytbk5OWVNQLXhCSkt4akRIWi1DZ25LWEJvNEUwTFJmZFRKOG02WEZUcFRQWmpUaWc?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 04:51:09 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "LH, 중소기업 신기술 지원 성과 인정…규제혁신 대상 장관상 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoYTdpcE5sbGpaWnlJdGkzVUtpbm1DQ2hwbDRadGh5TDNzdGtZNUR4bGdrVHNUSzVxQ0V2VF96R0xNWEJHNnl6QkZlZWc2N0xUZnQzdEFBZlJUYVRj?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 07:41:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "LH, 중소기업 지원 공로로 '규제혁신 대상' 장관상 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jem52eTcwN0Z0bmJkRVFCVDduM1JKTzJ4bkF1VF9zUG5nWS1ScjF6WF9ZU096WG51UDZhMzJxOTFYZlNnUTdvR3cwZ3JJV2s3QW5fN3hoNVdEYW94YTF4TtIBeEFVX3lxTE5McGYwQjBWNlV6SDdHdEE1Ni1ucGFMMS05SXRIYW1jeVFrWnd4T1pTSlF5N3VSTEM2ZFRfYVlhcW9teW1WaXhISDRLYXp3ZEhYOGdrbE5CQmJ0X1RLZ3JKZ01kZkI0UWZhN2tpWmplQlZKc01iVW96bg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ablpUWXVpXzUxeHk3UVpZQVpoSzRHSWZJcWlTYUVycWt1bGNNLWRTckVsU1pRSUxjc29EazdUWkdVSzVMM1JGUy1ab2hlQzExaFMwdnowMk1GTVVfWTBKYld3?oc=5",
             "snippet": "발행일시: Thu, 26 Nov 2026 01:08:24 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH, 중기부 장관상 수상…중소기업 기술 개발·해외 진출 지원 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ndEZtcTlJSkpqdXotZHF2SkZWS0Q4VGlGb3hSS2tJWjBkVXk0bl96VFBmVU5SSFhZOXZlRDBGVUsyWHZFZ3JqSXZSTEVnSi16U01NLVZlaG1BdWs?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 01:09:05 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "성남시, LH 서현지구 주택공급 확대 반대…“883가구대로 추진” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMDUzWE5ycXVvRUFKVmhRM0ttNW1VM3lqZUlTZ2t2OHJrMmFraldkZ0lzOTFxODhCN01UUFk1Y1BRQkdTVlFDZnRnRWtXQUFyU0d1a1VkaEp6QkU?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 05:18:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "LH 미분양 아파트 매입확약 착공률 42%, 정부 인센티브 강화해 주택 공급 속도 높인다 - 비즈니스포스트",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbGVWb3NaNTk5NWVqSHRWYzlWRVJaT2tRa3QxYUZUQXVEWXctcU9qNEszNm9WdC1IZFZEb05NSERhYlJqNWZpNkU2aHA1NE9PcUZDZ093b25EYzh3c192aUtwTFdVam9PUlhOaXFuV05yOXM?oc=5",
-            "snippet": "발행일시: Wed, 25 Nov 2026 07:28:24 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "성남시, LH 서현동 공공주택 4.5배 확대 제동…“교통난·주민 갈등 우려” - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZExEZzZLYkNvYVl4NlpDZzE1ai1vcTV2UXBrbnRiNzJLMm4temZ3eU0wdTVUNjZSMm4tWFI5ZG00dzYyQ2NWYjAyUEFaWVpaMUJIdXdfYXLSAVRBVV95cUxNc1NoVWVIZ2NQeVpBc0RVcS1xbm0xVmZ1dlF3YkowQnFaZU05Zlg5YnFCempjUHFuelg3bEpjcW5sUzJyRG40ZWQxd0s2a0dqekR1Nm4?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 15:20:45 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "수도권 규제지역 민간택지 미분양도 LH가 매입확약…물량 무제한 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjZmYWg1SWhLZjV5a0RZNldjSFZWaTNScHU4SFRHUTE5T2xKdWdELWJaeU01MXlwRzZVT25xSWMzX2ZVRzJaNlQ3cGhQX3A1NFUtY3hmRGxBNTTSAWBBVV95cUxQdlozdnBfZXI5Mmg1Zjlwb20ydDRtc0FQZy1wWWVjdkxpTmduUFk3akJZbjhwUFFSb0RLc0NzVllzeGhvUG11WkxCaUxrRHdjV1J1Zi1OQmN6WHhlcXVxMHY?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 05:00:16 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH 매입확약, 수도권 민간택지 확대…공공택지 조기 착공 시 3% 우대 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtV3JzS1JjdFRDNWp1dGZ1c2lQay1rZWFIQW9Qd1I4akVob2tEZ0xnYWF2Z1hVSExqYm4xUW5oRkhscWVHNmFWeTZkVjhrbmxHbTJMSHZ0R2JvRGc?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 05:00:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "李대통령 \"돈 덜 쓰려 주택 공급 미뤘나\"…LH 경영평가 개편 추가 지시 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Zm5mNG9uTEt5R2tGaHZEdVdfajVKVk9IaEpfNVl6M0dTR2dROXRBWHFydGdiNnNoSXdMclU5dDdHS3dXTk9pamRqUHlQaV9zclc1NFR3NUlwSXhCUzdzYzlxVDhLZGY4STdVY0d3UDQ?oc=5",
-            "snippet": "발행일시: Wed, 25 Nov 2026 10:15:17 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "성남시, 한국토지주택공사 서현 공공주택사업 확대 추진에 반대···“주민혼란·교통난 우려” - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tb3MwU0ZDMXFTLTFTSzBIQ2RiY2l2bzhYeGR5VlBuZ1VoQ0ExNkZRWTlLZE04bG9WT1A0ZDZsdDlSSmU0UEZKUTc2T3lGUGFzM2U5amdrcV81UdIBX0FVX3lxTFBUS2lnUmZCMmJaeXVjcGNHZHhkalRqRTc4Vlplb0JBTjQ3S0xZR2NuSi1yR09NZnI1ZUh2X3lmU0JVOFhMT1NBSlRCbXFKcXhqUVkzbzE1eFk4VUJ5dTlF?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 01:25:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "성남시, LH 서현동 공공주택 3967가구 확대 계획 반대 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WSS1oYjNMMmhJQmtCWkdiYkZ3Nmg1UGdUQ2w2bW16YnJuTlgtTHRzSm5MMzhPdmJKaW5nR25xOW5BLW5ITk9DNmhoa19SQzFVaDFBMHhxZTQ2cVoyQVZpStIBeEFVX3lxTFBNeTUwSDJRVXhRMXJIU29HbzQwRWl6Y284TVlFNVpqelJ3a0ZIS2F3eUR1Zy1rMEppSmNEN2hZdWNpMlJSNVA2YV9Wd0VOeXp5MEtIaTZ5WlExR1AwT0h1WExLU0dqc3c1REM3MVNsdzByMXdQengwcQ?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 02:22:24 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "성남시, LH 서현지구 주택공급 확대 반대…\"883 가구대로 추진\" - SBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SeUZRM3hOaC1MWFhLbEFkSTQtSGpYTUt6WkZfVFBEcTBHbHlxX3huT0Y0bTF2YzhlYXRLYi1kSW15YWlhRUxYenRTSUxCcGpxVVZpakMwY0ZsWDJ4ZFRPOUR0UkYxcW11N3c?oc=5",
-            "snippet": "발행일시: Thu, 26 Nov 2026 01:49:14 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 로봇과 함께 더 안전하고 스마트한 건설기술 선봬 - 중부일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwS2VEYnk3bTdfU2xYMV9QcW1WT1pVZWVBYXRDR2hGelROb0NoREliZm1VVHp3Vl8tVllXMFpzYmw5SllEYXB6X0h5STRwc2tCSDBNUkY4UU03b2VkTHRXMnJsQ3BUWHktdGhSRXhfNA?oc=5",
-            "snippet": "발행일시: Wed, 25 Nov 2026 09:54:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, 스마트건설 엑스포서 'AI 순찰로봇·모듈러 홈' 기술 공개 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jeE9rWW1LLWQ1Qm52YUhGd2Z0aWNBUGxycVlsU1lEVEpHR0Qyc21HZ3pzNVU2Z3hWeVhHRDJSZkhXTXZIN25tUFQtR3V0TDZHOGthOTlYMS1OdERC?oc=5",
-            "snippet": "발행일시: Wed, 25 Nov 2026 06:39:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
-        },
-        {
-            "title": "LH, ‘2026 스마트건설·안전·AI EXPO’서 AI·로봇 기술 선보인다 - 전기신문",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VSjkzelJQb0IwSnY5MlJkblRPVTVlclVzclJ4YTgzc1hqd0dEcDJxeGRVMlVqUWxUeW8yanlQVU13S2NfdHZqeFZ0QkMwYkRkZ0RONEJPZ0l1VDBRU3l0UkYxcDI1MklOdzJId9IBcEFVX3lxTE44MkU0eXBCYm9INkRlSjhXdzNCdFFMYWxfaERaMnZ0MFlNUTBsVVBmcHRxZHVzV3BkR2prd2NTeHZ3ZS1KSkJfY2RJZFlVaFpwbklwcVlTQnd1STFvUDNDTlJFaS1wVkl3VGhkSnhjdGg?oc=5",
-            "snippet": "발행일시: Wed, 25 Nov 2026 06:31:15 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "\"서현동 110번지 3967세대 확대 불가\" 성남시, LH 계획에 반대 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJSEU5YXB4N2x0WlhqSE1KaWY3QW8zVlk0YVFOaUlqVjBEc1ZXUmNoSGNqbGhiUi1oUVp1V3BSZXlKNHByNzR5QkpLb1ZHRHZ4a2M4ZnpFX3BpVTVaQ1UzZlJleG51TlAwNHfSAW9BVV95cUxQb1l4XzltQU42dkgtVUlQbXFjcDNKX0dITTJwc2dnWTJHYkRDU3Q5TjZYSmI3RFNDTHJSTmo5T3B2MjN1eU1XMjI5S09qMXVrOHNVQjBhWENvOVFNVGpObkN1LVhWa1NoZmVHdVRDMDA?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 05:56:13 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
             "title": "'막판 담판' 나서는 LH사장...노사 최종교섭 내주로 연기 - 머니투데이 - 머니투데이",
@@ -134,9 +124,19 @@
             "snippet": "발행일시: Wed, 25 Nov 2026 19:07:00 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         },
         {
-            "title": "군산 LH공사장 인근 아파트 지반침하···13일 만에 대책회의 - 전북일보 인터넷신문",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PU2ZJcENXYnFxcGdYM3NQV212SUxWc01iZFdOQV9rdkZ1UlNqUXNhMTBsamFpR29MY1hoMWhnSWpTMEh2Q3NBWVA0a3p1WnRiOUdfc9IBWEFVX3lxTE91ZXFNdVVFOTBDZmxTODNkbWlDdDgwVkMya0oyYTctUXNRMEJhM3V4RHJxa1I0eFpyM19lXzlEcXZCa1VyRldqNTRZbEJBR09wYWJOTW5BcDc?oc=5",
-            "snippet": "발행일시: Tue, 24 Nov 2026 00:57:14 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+            "title": "LH `남구 캠프조지 반환부지` 개발용역 중단…남구 행정복합타운 조성 답보 - 매일신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCOW1oWEliM1l5OGZfY0JmZzJYd2xITUdUaU1BTFdVZzBXVUNqbDh4TS1HYW1FRE9WS0RwTnhTVlRtakdkcEJPbXJBYWtQN1dHZ2F4S1ZNTUpfUlRDY2VDWmpB?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 06:04:51 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "수도권 민간택지까지 ‘LH 미분양 매입확약’ 확대… 3.8만 가구 착공 유도 - 에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMkh5a2lacUFLbTNxOW00dXFWc1Z1RXZSX3dxSnR3TDVTRjJBY1JrSWhVY3RYZFM1SDQ5RW1jTUVzeUtIMGQtRHljRkhGV29vYkE4RWZaSmZ6dGM?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 08:21:27 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
+        },
+        {
+            "title": "수도권 규제지역 민간택지 미분양도 LH가 매입확약…물량 무제한 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjZmYWg1SWhLZjV5a0RZNldjSFZWaTNScHU4SFRHUTE5T2xKdWdELWJaeU01MXlwRzZVT25xSWMzX2ZVRzJaNlQ3cGhQX3A1NFUtY3hmRGxBNTTSAWBBVV95cUxQdlozdnBfZXI5Mmg1Zjlwb20ydDRtc0FQZy1wWWVjdkxpTmduUFk3akJZbjhwUFFSb0RLc0NzVllzeGhvUG11WkxCaUxrRHdjV1J1Zi1OQmN6WHhlcXVxMHY?oc=5",
+            "snippet": "발행일시: Thu, 26 Nov 2026 05:00:16 GMT | 키워드 [한국토지주택공사] 관련 실시간 주요 언론 보도입니다."
         }
     ],
     "raw_news_count": 35
